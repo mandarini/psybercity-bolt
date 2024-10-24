@@ -1,0 +1,24 @@
+[
+  {
+    "postType": "Content-creation",
+    "link": "https://blog.nrwl.io/monorepos-why-speed-matters-e74293ae697b",
+    "title": "Monorepos — Why Speed Matters",
+    "description": "How we make Angular monorepos faster with Nx",
+    "date": "20 March 2024",
+    "impact": {
+      "value": "200 Readers"
+    },
+    "timestamp": "2024-03-20T06:00:00.000Z"
+  },
+  {
+    "postType": "Public-speaking",
+    "link": "https://github.com/mandarini/ai-ng-docs",
+    "title": "Enhance Your Docs UX with AI: A Hands-On Workshop for Angular",
+    "description": "1-hour workshop designed to elevate your documentation through the power of Generative AI. Drawing upon real-world results from Nx's recently launched AI Assistant, this session offers a unique blend of theory and practice to give you actionable insights into improving your Angular docs.",
+    "date": "20 March 2024",
+    "impact": {
+      "value": "100 Attendees"
+    },
+    "timestamp": "2024-03-20T06:00:00.000Z"
+  }
+]

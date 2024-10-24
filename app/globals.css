@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 340 57% 65%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 177 44% 49%;
+    --secondary-foreground: 0 0% 98%;
+    --accent: 261 36% 57%;
+    --accent-foreground: 0 0% 98%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 340 57% 65%;
+    --input: 340 57% 65%;
+    --ring: 340 57% 65%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 340 57% 65%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 177 44% 49%;
+    --secondary-foreground: 0 0% 98%;
+    --accent: 261 36% 57%;
+    --accent-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 340 57% 65%;
+    --input: 0 0% 14.9%;
+    --ring: 340 57% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .text-emphasis-secondary {
+    @apply text-secondary transition-colors duration-200;
+  }
+  
+  .text-emphasis-accent {
+    @apply text-accent transition-colors duration-200;
+  }
+
+  .perspective-1000px {
+    perspective: 1000px;
+  }
+
+  .transform-style-preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  .translate-z-16 {
+    transform: translateZ(4rem);
+  }
+
+  .-translate-z-16 {
+    transform: translateZ(-4rem);
+  }
+
+  .translate-x-16 {
+    transform: translateX(4rem);
+  }
+
+  .-translate-x-16 {
+    transform: translateX(-4rem);
+  }
+
+  .translate-y-16 {
+    transform: translateY(4rem);
+  }
+
+  .-translate-y-16 {
+    transform: translateY(-4rem);
+  }
+
+  .rotate-y-90 {
+    transform: rotateY(90deg);
+  }
+
+  .-rotate-y-90 {
+    transform: rotateY(-90deg);
+  }
+
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+
+  .rotate-x-90 {
+    transform: rotateX(90deg);
+  }
+
+  .-rotate-x-90 {
+    transform: rotateX(-90deg);
+  }
+}
