@@ -20,5 +20,1963 @@
       "value": "100 Attendees"
     },
     "timestamp": "2024-03-20T06:00:00.000Z"
+  },
+  {
+    "postType": "Public-speaking",
+    "link": "https://www.ng-ind.com/#agenda",
+    "title": "Scale your Angular apps with Nx",
+    "description": "In this talk, we'll explore how Nx can transform your Angular development, making it more efficient and scalable. We'll discuss how you can grow your project from a small setup to a large monorepo using Nx. You'll learn how to organize your workspace into libraries and set rules for better teamwork, whether you're working on a single project or a...",
+    "date": "9 February 2024",
+    "impact": {
+      "value": "400 Attendees"
+    },
+    "timestamp": "2024-02-09T07:00:00.000Z"
+  },
+  {
+    "postType": "Youtube-video",
+    "link": "https://www.youtube.com/watch?v=uHwUxFYX2DY",
+    "title": "@nx/nuxt Live!! With Nuxt maintainer Daniel Roe!!",
+    "date": "7 February 2024",
+    "impact": {
+      "value": "16 Likes"
+    },
+    "timestamp": "2024-02-07T07:00:00.000Z"
+  },
+  {
+    "postType": "Public-speaking",
+    "link": "https://www.youtube.com/watch?v=OXXTUjSO1hs",
+    "title": "Nx Live Stream - Updates for new version",
+    "description": "Updating about the new version of Nx, all the new Angular features",
+    "date": "10 January 2024",
+    "impact": {
+      "value": "500 Attendees"
+    },
+    "timestamp": "2024-01-10T07:00:00.000Z"
+  },
+  {
+    "postType": "Public-speaking",
+    "link": "https://www.meetup.com/angular-athens/events/297342102/",
+    "title": "Transforming Angular Development with Nx: Efficiency, Scalability, and Beyond",
+    "description": "Making the most out of your Angular application, how to scale and how to extend, using Nx.",
+    "date": "28 November 2023",
+    "impact": {
+      "value": "100 Attendees"
+    },
+    "timestamp": "2023-11-28T07:00:00.000Z"
+  },
+  {
+    "postType": "Content-creation",
+    "link": "https://blog.nrwl.io/nx-docs-ai-assistant-433d238e45d4",
+    "title": "Nx Docs AI Assistant",
+    "description": "How we built the docs AI assistant",
+    "date": "21 November 2023",
+    "impact": {
+      "value": "100 Readers"
+    },
+    "timestamp": "2023-11-21T07:00:00.000Z"
+  },
+  {
+    "postType": "Content-creation",
+    "link": "https://pakotinia.medium.com/openais-assistants-api-a-hands-on-demo-110a861cf2d0",
+    "title": "OpenAI’s Assistants API — A hands-on demo",
+    "description": "OpenAI Assistant API demo.",
+    "date": "15 November 2023",
+    "impact": {
+      "value": "100 Readers"
+    },
+    "timestamp": "2023-11-15T07:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://open.spotify.com/episode/7a7cAO2UsJ2zaxTEDDg3UI",
+    "title": "The Story about Storybook at Angular Plus show",
+    "description": "Angular + Storybook and how to build better UIs",
+    "date": "22 November 2023",
+    "impact": {
+      "value": "200",
+      "label": "Views"
+    },
+    "timestamp": "2023-11-21T22:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/nx-docs-ai-assistant-433d238e45d4",
+    "title": "How we built the Nx Docs AI Assistant",
+    "description": "The Nx Docs AI Assistant is a tool designed to provide users with answers straight from the Nx documentation. In this article I will explain how it is built, and how we ensure accuracy and relevance.",
+    "date": "22 November 2023",
+    "impact": {
+      "value": "1,000",
+      "label": "Reads"
+    },
+    "timestamp": "2023-11-21T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/vuejsathens/events/297384418/",
+    "title": "Nxify your Vue and Nuxt Projects",
+    "description": "Using Vue and Nuxt more efficiently",
+    "date": "21 November 2023",
+    "impact": {
+      "value": "25",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-11-20T22:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://pakotinia.medium.com/openais-assistants-api-a-hands-on-demo-110a861cf2d0",
+    "title": "OpenAI’s Assistants API — A hands-on demo",
+    "description": "OpenAI just released the Assistants API, which pretty much simplifies the process of setting up a Q&A system based on a knowledge base for GPT. We'll see how to build your own.",
+    "date": "15 November 2023",
+    "impact": {
+      "value": "100",
+      "label": "Reads"
+    },
+    "timestamp": "2023-11-14T22:00:00.000Z"
+  },
+
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/watch?v=dpncw1S1GdI",
+    "title": "Nx 17 Release",
+    "description": "Talking about Vue.",
+    "date": "26 October 2023",
+    "impact": {
+      "value": "1,300",
+      "label": "Views"
+    },
+    "timestamp": "2023-10-25T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=HfarG4wswK4",
+    "title": "Streamline Your Vite dev-flow with Nx",
+    "description": "Explore the integration of Nx and Vite in modern web development. This talk sheds light on how Nx’s extensible and powerful tools complement Vite's swift builds, offering an enhanced and efficient development experience. Dive in to learn about the features, benefits, and practical applications of the Nx Vite plugin. Also, cat pictures will enhance your viewing experience.",
+    "date": "4 October 2023",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-10-03T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/angularnyc/events/296188739/",
+    "title": "Enhancing Docs UX with AI",
+    "description": "In this talk, we'll explore how integrating AI into your documentation site can amplify the user search experience and offer insights for documentation improvement. Understand the synergy between human-curated content and AI-assistance. Learn how AI can provide real-time search assistance, guide users efficiently, and offer valuable feedback to continuously refine and enhance your documentation based on user interactions. Dive into the next level of interactive documentation!",
+    "date": "28 September 2023",
+    "impact": {
+      "value": "30",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-09-27T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://webrush.io/episodes/episode-253-ai-with-katerina-skroumpelou",
+    "title": "AI with Katerina Skroumpelou",
+    "description": "Katerina Skroumpelou join us to talk about her work on implementing AI and chatGPT inside documentation, how well it has worked, and some of the things to consider when using AI for docs.",
+    "date": "28 September 2023",
+    "impact": {
+      "value": "500",
+      "label": "Views"
+    },
+    "timestamp": "2023-09-27T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=SWlvsDNXCsQ",
+    "title": "Setting up Storybook interaction tests with Nx",
+    "description": "Setting up Storybook interaction tests with Nx",
+    "date": "26 September 2023",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-09-25T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/live/wj-gb6jqyzA?si=IxxKvDPlebyIF4S4",
+    "title": "Nx Live Show for v16.8 release",
+    "description": "All the latest about the latest release. Will be talking about Vite and Storybook and Vue.",
+    "date": "6 September 2023",
+    "impact": {
+      "value": "1,000",
+      "label": "Views"
+    },
+    "timestamp": "2023-09-05T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://webrush.io/episodes/episode-247-ecosystem-ci-katerina-skroumpeloution",
+    "title": "Ecosystem CI Katerina Skroumpeloution",
+    "description": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team.",
+    "date": "17 August 2023",
+    "impact": {
+      "value": "500",
+      "label": "Views"
+    },
+    "timestamp": "2023-08-16T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/storybook-interaction-tests-in-nx-135fdaabc944",
+    "title": "Storybook Interaction Tests in Nx",
+    "description": "Interaction tests allow users to verify the functional aspects of UIs. This is done by supplying the initial state of a component, simulating user behavior such as clicks and form entries, and finally checking if the UI and component state update correctly​. Very much like e2e tests are doing.",
+    "date": "3 August 2023",
+    "impact": {
+      "value": "1,000",
+      "label": "Reads"
+    },
+    "timestamp": "2023-08-02T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/introducing-nx-ecosystem-ci-ad0526d37f83",
+    "title": "Introducing Nx Ecosystem CI",
+    "description": "Ecosystem CI as a way to make sure that the integrations of different OSS tools work correctly together, and ensure robustness",
+    "date": "20 June 2023",
+    "impact": {
+      "value": "100",
+      "label": "Reads"
+    },
+    "timestamp": "2023-06-19T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://greece.cityjsconf.org/",
+    "title": "City JS Conference organizing",
+    "description": "Part of the organizing team of City JS conference in Athens, I connected and mentored with fellow attendees.",
+    "date": "31 May 2023",
+    "impact": {
+      "value": "1,000",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-05-30T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/angular-athens/events/293446854/",
+    "title": "CityJS Conf pre-event: Meetup Community evening on the terrace",
+    "description": "Organizing a community event pre-conf, where I introduced the speakers, and talked about the latest highlights in the JavaScript and web ecosystem",
+    "date": "29 May 2023",
+    "impact": {
+      "value": "80",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-05-28T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/live/9_chJoS-DRw?si=sT3EvvC4do3I0Gg2",
+    "title": "Nx Live Coding with Storybook",
+    "description": "Live coding demo during Nx show and speaking about storybook",
+    "date": "24 May 2023",
+    "impact": {
+      "value": "1,700",
+      "label": "Views"
+    },
+    "timestamp": "2023-05-23T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=2JjctvJdUS4",
+    "title": "Storybook 7 in monorepos with Nx",
+    "description": "Monorepos enable you to store multiple packages, such as your app and design system, in a single repository. This makes it easier to work on them simultaneously. Katerina will demonstrate how to use Storybook in monorepos managed with Nx. You'll learn about the Nx-Storybook plugin, which can quickly configure Storybook within a package.",
+    "date": "23 May 2023",
+    "impact": {
+      "value": "2,100",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-05-22T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/watch?v=9_chJoS-DRw",
+    "title": "Nx Show - Monorepos, Storybook, Live Coding",
+    "description": "Storybook 7, all the newest features in testing your apps and components, dev tools, interaction testing",
+    "date": "15 March 2023",
+    "impact": {
+      "value": "100",
+      "label": "Views"
+    },
+    "timestamp": "2023-03-14T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/P0hJm5v8TJw?t=5803",
+    "title": "Managing Storybook on monorepos",
+    "description": "Managing Storybook on monorepos using modern web technologies",
+    "date": "14 March 2023",
+    "impact": {
+      "value": "400",
+      "label": "People Attended"
+    },
+    "timestamp": "2023-03-13T22:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "title": "Making the most out of Google Maps platform",
+    "description": "I was mentoring a group of students at my old university (School of Architectural Engineering) about how they can make the most out of the Google Maps Platform to support their urban planning projects. I showcased how they can use the API, and the drawing layers to display data, how they can take advantage of the elevation api, etc.",
+    "date": "13 February 2023",
+    "impact": {
+      "value": "20",
+      "label": "People Trained"
+    },
+    "timestamp": "2023-02-12T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://gdg.community.dev/events/details/google-gdg-cyprus-presents-devfest-hellas-2022/",
+    "title": "Making your app fly with Google Maps",
+    "description": "The Google Maps Platform has made leaps of progress over the past few years, and the capabilities it offers go beyond whatever we are used to seeing on the web. With the power of WebGL, your apps and your maps sure do fly. In this presentation, we are going to see some of the cool things that Google Maps offers to the web platform, and how you can really transform your apps using these new powers. Participants will leave wanting to get their hands on the new APIs, and make their apps shine asap.",
+    "date": "26 November 2022",
+    "impact": {
+      "value": "50",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-11-25T22:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://nx.dev/conf#workshop",
+    "title": "Nx Workshop",
+    "description": "I was helping the main hosts of the workshop.\n\nTeaches participants how to use Nx to scale their apps and speed up their development process",
+    "date": "17 October 2022",
+    "impact": {
+      "value": "25",
+      "label": "People Trained"
+    },
+    "timestamp": "2022-10-16T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://webrush.io/episodes/episode-204-wolves-cats-and-dogsand-the-google-cloud-platform",
+    "title": "Web Rush Episode 204",
+    "description": "Wolves, Cats, and Dogs...and The Google Cloud Platform\n\nTalking about the Google Cloud Platform on WebRush Podcast",
+    "date": "6 October 2022",
+    "impact": {
+      "value": "200",
+      "label": "Views"
+    },
+    "timestamp": "2022-10-05T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://pakotinia.medium.com/a-demo-for-the-sensor-apis-on-the-web-300b9c31b27d",
+    "title": "A demo for the Sensor APIs on the web",
+    "description": "Demoing the Sensor APIs on the web platform and suggesting uses",
+    "date": "4 October 2022",
+    "impact": {
+      "value": "100",
+      "label": "Reads"
+    },
+    "timestamp": "2022-10-03T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://open.spotify.com/episode/0ip5o6ThVqdd3CcpQM68rl",
+    "title": "DevLife Podcast S03E03",
+    "description": "Giving Mental Health a Piece of Your Mind\n\nIn this episode of the Dev.Life we invited Katerina Skroumpelou back on the show to discuss a recent blog article she published about dealing with mental health and depression as a developer or tech professional. Katerina shares her experiences for how she’s coped with these challenges in her own life and how she’s been able to push through it all to make a successful career filled with many great accomplishments",
+    "date": "26 September 2022",
+    "impact": {
+      "value": "500",
+      "label": "Views"
+    },
+    "timestamp": "2022-09-25T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://pakotinia.medium.com/tainted-moments-or-hello-vecna-my-old-friend-cc5336d274d2",
+    "title": "Tainted Moments — or “Hello Vecna my old friend”",
+    "description": "Katerina speaks about her mental health, making analogies with Stranger Things. The reason she shares this is because maybe more people are having the same experiences, and it’s nice to know you’re not alone. Also, it’s good to know that people who are functional and happy and active may still suffer sometimes.",
+    "date": "4 August 2022",
+    "impact": {
+      "value": "500",
+      "label": "Reads"
+    },
+    "timestamp": "2022-08-03T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/speed-up-storybook-with-vite-and-swc-with-the-help-of-nx-b1e4c488e0fd",
+    "title": "Speed up Storybook with Vite and SWC — with the help of Nx",
+    "description": "How to use Vite and SWC with Storybook",
+    "date": "18 July 2022",
+    "impact": {
+      "value": "100",
+      "label": "Reads"
+    },
+    "timestamp": "2022-07-17T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/speed-up-storybook-with-vite-and-swc-with-the-help-of-nx-b1e4c488e0fd",
+    "title": "Speed up Storybook with Vite and SWC — with the help of Nx",
+    "description": "How to use Vite and SWC with Storybook",
+    "date": "18 July 2022",
+    "impact": {
+      "value": "100",
+      "label": "Reads"
+    },
+    "timestamp": "2022-07-17T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.johnpapa.net/nx-and-lerna-with-katerina-skroumpelou-on-web-rush-192/",
+    "title": "WebRush Podcast: Nx and Lerna",
+    "description": "Katerina Skroumpelou talks with us about how Nx and Lerna are integrated now that Nrwl has taken over stewardship of Lerna, where to begin learning about Nx and Lerna, and the integration options.",
+    "date": "14 July 2022",
+    "impact": {
+      "value": "300",
+      "label": "Views"
+    },
+    "timestamp": "2022-07-13T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://ti.to/nrwl/nx-workshop-7-2022",
+    "title": "Develop at Scale with Nx",
+    "description": "Develop at scale with Nx, Angular and monorepos ",
+    "date": "7 July 2022",
+    "impact": {
+      "value": "25",
+      "label": "People Trained"
+    },
+    "timestamp": "2022-07-06T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://ti.to/nrwl/nx-workshop-7-2022",
+    "title": "Develop at Scale with Nx",
+    "description": "Develop at scale with Nx, Angular and monorepos",
+    "date": "7 July 2022",
+    "impact": {
+      "value": "25",
+      "label": "People Trained"
+    },
+    "timestamp": "2022-07-06T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://twitter.com/SantoshYadavDev/status/1542545245522608128",
+    "title": " Twitter Space - Nx & monorepos in the Angular ecosystem",
+    "description": "Twitter Space - General q&A panel about monorepos in the Angular ecosystem with other members of the Angular and the Nx community",
+    "date": "30 June 2022",
+    "impact": {
+      "value": "50",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-06-29T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://twitter.com/SantoshYadavDev/status/1542545245522608128",
+    "title": "Twitter Space - Nx & monorepos in the Angular ecosystem",
+    "description": "Twitter Space - General q&A panel about monorepos in the Angular ecosystem with other members of the Angular and the Nx community",
+    "date": "30 June 2022",
+    "impact": {
+      "value": "50",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-06-29T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/watch?v=-kfMrYwb7WM",
+    "title": "Supercharge your monorepo with Nx",
+    "description": "Storybook and Nx and monorepo development",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/59de30db-1fa7-4b88-a35d-952f4390ee42.png",
+    "date": "15 June 2022",
+    "impact": {
+      "value": "825",
+      "label": "Views"
+    },
+    "timestamp": "2022-06-14T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://greece.cityjsconf.org/",
+    "title": "General MC'ing and organizing CityJS Conference in Athens, Greece",
+    "description": "General MC'ing and organizing CityJS Conference in Athens, Greece",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/664104e4-7e48-4e00-a702-2166b9826de0.jpeg",
+    "date": "27 May 2022",
+    "impact": {
+      "value": "300",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-05-26T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Angular-Athens/events/285521301/",
+    "title": "Scaling your Angular App with Nx",
+    "description": "Scaling your Angular application using Nx and other modern technologies (eg. Storybook, Cypress, etc)",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/4cc0d432-1bec-4983-89b0-1ce1b8ed96b2.jpeg",
+    "date": "25 May 2022",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-05-24T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://dev.to/ngxp/s2e14-katarina-skroumpelou-on-workplace-conflict",
+    "title": "Angular Experience S2E14",
+    "description": "Workspace Conflict ",
+    "date": "2 May 2022",
+    "impact": {
+      "value": "200",
+      "label": "Views"
+    },
+    "timestamp": "2022-05-01T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.twitch.tv/pako_tini",
+    "title": "kat-stuff",
+    "description": "Live coding and answering questions about Angular, Nx, Web technologies, open source",
+    "date": "29 March 2022",
+    "impact": {
+      "value": "10",
+      "label": "Views"
+    },
+    "timestamp": "2022-03-28T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://women-in-tech.thisdotmedia.com/#/",
+    "title": "Monthly Mentoring - Women in Tech - This Dot",
+    "description": "Mentoring women in tech - a live session on Zoom where women can join and as the hosts we mentor them, answer questions about career, technologies, issues at work.\n\nThis happens every month",
+    "date": "16 March 2022",
+    "impact": {
+      "value": "20",
+      "label": "People Trained"
+    },
+    "timestamp": "2022-03-15T22:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.twitch.tv/pako_tini",
+    "title": "kat-stuff",
+    "description": "Live coding and answering questions about Angular, Nx, web technologies, open source contribution",
+    "date": "15 March 2022",
+    "impact": {
+      "value": "10",
+      "label": "Views"
+    },
+    "timestamp": "2022-03-14T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/enqzuIigW8M",
+    "title": "STATE OF THE WEB International Women's Day Panel",
+    "description": "Panel about the state of the web",
+    "date": "8 March 2022",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2022-03-07T22:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://open.spotify.com/episode/7AuGlj8hm3F8yIkKwE3VHG",
+    "title": "Angular Experience s2e06 ",
+    "description": "In this episode of NgXP, get ready for a new inspiring People of Angular episode with Google Maps and Web Technologies GDE, Katerina Skroumpelou. Katerina shares her strong example of how to boldly develop new skills and achieve greater heights throughout your career, including how to expand your network and find the opportunities that keep you increasingly passionate",
+    "date": "7 March 2022",
+    "impact": {
+      "value": "200",
+      "label": "Views"
+    },
+    "timestamp": "2022-03-06T22:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.spreaker.com/user/14532324/s2e06-developers-odyssey-with-katerina-s",
+    "title": "NgXp Show - S2E06 | Developer's Odyssey with Katerina Skroumpelou",
+    "description": "Angular Experience Show - appeared as guest",
+    "date": "6 March 2022",
+    "impact": {
+      "value": "100",
+      "label": "Views"
+    },
+    "timestamp": "2022-03-05T22:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "title": "Angular and Nx at scale",
+    "description": "Internal meetup/workshop at the National Bank of Greece - training on Angular + Nx",
+    "date": "16 December 2021",
+    "impact": {
+      "value": "30",
+      "label": "People Trained"
+    },
+    "timestamp": "2021-12-15T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.open-conf.gr/content/",
+    "title": "Visualizing spatial data with the Google Maps platform",
+    "description": "We'll explore all the different features that the Google Maps platform offers for spatial data visualization.\n\n",
+    "date": "15 December 2021",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-12-14T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://ng-be.org/",
+    "title": "Storybook your Angular app with Nx",
+    "description": "Adding Storybook to your Angular app",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/06/fa757749-6958-48f5-9a37-e3a35c775a03.jpg",
+    "date": "3 December 2021",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-12-02T22:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://ng-be.org/",
+    "title": "Nx + Angular workshop",
+    "description": "Using Nx to build scalable Angular applications",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/06/a2602a53-3973-4b68-97ee-f5e8d6affb77.jpg",
+    "date": "2 December 2021",
+    "impact": {
+      "value": "28",
+      "label": "People Trained"
+    },
+    "timestamp": "2021-12-01T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/angularcommunity/events/rmjgjsyccpbvb/",
+    "title": "Angular CLI + Nx",
+    "description": "Angular CLI + Nx - speaking at the Angular Community Meetup",
+    "date": "16 November 2021",
+    "impact": {
+      "value": "68",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-11-15T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.angular-up.com/events/build-a-design-system-with-angular-nx-storybook/",
+    "title": "Build a design system with Storybook + Angular + Nx",
+    "description": "Building a design system using Storybook and Angular",
+    "date": "8 November 2021",
+    "impact": {
+      "value": "300",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-11-07T22:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "title": "Contributing to Open Source - How to contribute to Nx",
+    "description": "Trained a group of engineers (the Zivver team) on how to contribute to open source for Hacktober",
+    "date": "29 October 2021",
+    "impact": {
+      "value": "20",
+      "label": "People Trained"
+    },
+    "timestamp": "2021-10-28T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://events.withgoogle.com/women-developer-academy-europe/",
+    "title": " Women Developer Academy",
+    "description": "Mentoring women for the WDA ogranized by the WTM",
+    "date": "26 October 2021",
+    "impact": {
+      "value": "1",
+      "label": "People Trained"
+    },
+    "timestamp": "2021-10-25T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://bit.ly/kat-map-gmap",
+    "title": "Google Maps - Exploring the less used features",
+    "description": "Google Maps JS API and the Google Maps Platform. Presenting features of the platform that are less used!",
+    "date": "7 October 2021",
+    "impact": {
+      "value": "40",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-10-06T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/js-monthly/events/280470053/",
+    "title": "Storybook you App",
+    "description": "Using Storybook to build and test your UIs, your CSS and your interactive elements",
+    "date": "9 September 2021",
+    "impact": {
+      "value": "35",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-09-08T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://bit.ly/kat-nx-nbg",
+    "title": "Scaling your app with Angular and Nx",
+    "description": "Building scalable apps - This talk was given internally at the dev team of the National Bank of Greece",
+    "date": "8 July 2021",
+    "impact": {
+      "value": "45",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-07-07T21:00:00.000Z"
+  },
+  {
+    "postType": "Written Content",
+    "link": "https://blog.nrwl.io/build-your-design-system-with-storybook-nx-e3bde4087ad8",
+    "title": "Build your design system with Storybook + Nx",
+    "description": "Building a design system",
+    "date": "11 June 2021",
+    "impact": {
+      "value": "2,000",
+      "label": "Reads"
+    },
+    "timestamp": "2021-06-10T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://geekle.us/angular",
+    "title": "Storybook your Angular app with Nx",
+    "description": "Using storybook in your Angular app",
+    "date": "2 June 2021",
+    "impact": {
+      "value": "500",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-06-01T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://webrush.io/",
+    "title": "WebRush Podcast - Episode 138",
+    "description": "Google Maps Platform! The first time ever that Google Maps is on John Papa's podcast!\n\n(will update link once it goes live)",
+    "date": "21 May 2021",
+    "impact": {
+      "value": "300",
+      "label": "Views"
+    },
+    "timestamp": "2021-05-20T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/YRBkmjsLFEs?t=366",
+    "title": "Nx for Angular CLI users",
+    "description": "Nx + Angular CLI",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/12/86c1f84c-3b16-4f83-8256-4cf566cfa915.png",
+    "date": "29 April 2021",
+    "impact": {
+      "value": "369",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-04-28T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/PMADN2ggDL8?t=4141",
+    "title": "Storybook your app with Nx",
+    "description": "Adding Storybook to Angular apps with Nx",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/12/3db2bc48-e7ab-4b85-865b-298080e91540.png",
+    "date": "23 March 2021",
+    "impact": {
+      "value": "2,369",
+      "label": "People Attended"
+    },
+    "timestamp": "2021-03-22T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://angular-up.com/",
+    "title": "Nx for Angular CLI Users",
+    "description": "By now, you’ve probably heard of Nx from Nrwl. You might know that it’s a toolkit based on top of Angular CLI, and it’s great for developing monorepos. But there’s so much more to Nx than just monorepos! In this talk, Jeff Cross and Katerina Skroumpelou will talk about everything Nx does to help you develop any Angular application better and faster.",
+    "date": "3 December 2020",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-12-02T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Dutch-Angular-group/events/273791022/",
+    "title": "Scalable apps with Nx",
+    "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
+    "date": "26 November 2020",
+    "impact": {
+      "value": "80",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-11-25T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.ng-conf.org/",
+    "title": "Nx for Angular CLI Users",
+    "description": "By now, you’ve probably heard of Nx from Nrwl. You might know that it’s a toolkit based on top of Angular CLI, and it’s great for developing monorepos. But there’s so much more to Nx than just monorepos! In this talk, Jeff Cross and Katerina Skroumpelou will talk about everything Nx does to help you develop any Angular application better and faster.",
+    "date": "19 November 2020",
+    "impact": {
+      "value": "500",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-11-18T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.ucl.ac.uk/bartlett/casa/events/2020/nov/katerina-skroumpelou-you-can-do-google-maps",
+    "title": "You can do that with Google Maps",
+    "description": "In this session, we will explore the capabilities of the Google Maps Platform and the Google Maps JS API. We will see how we can use the API to not only create simple maps with markers, but also how to visualise our spatial data. Then, we will see how we can extract information from the map, like elevation, distance, or directions information. All that, simply and effectively!",
+    "date": "4 November 2020",
+    "impact": {
+      "value": "60",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-11-03T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Angular-IL/events/273097889/",
+    "title": "Scale your app with Nx",
+    "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
+    "date": "21 October 2020",
+    "impact": {
+      "value": "212",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-10-20T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/WarsawJS/events/267830178/",
+    "title": "Scale your app with Nx!",
+    "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
+    "date": "14 October 2020",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-10-13T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://bit.ly/devfest-kat-nx",
+    "title": "Scalable apps with Nx!",
+    "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development! ",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/10/03/4a497b0d6a473d16b6ab.png",
+    "date": "3 October 2020",
+    "impact": {
+      "value": "140",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-10-02T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://devchat.tv/podcasts/adv-in-angular/",
+    "title": "Adventures in Angular with Katerina Skroumpelou - Working with Google Maps on Angular",
+    "description": "Will update dates and count of viewers soon\n\nKaterina Skroumpelou is a Google Maps & Angular Google Developer Expert and team member at @nrwl_io living in Greece. In this episode, Katerina talks through how she got started with Google Maps. She also covers how the Google Maps JS API has changed overtime, how you yourself can get started using it in your Angular Applications and what all you can do with the API!",
+    "date": "September 15th, 2020",
+    "impact": {
+      "value": "100",
+      "label": "Views"
+    },
+    "timestamp": "2020-09-14T21:00:00.000Z",
+    "media": {
+      "slides": null,
+      "code": null,
+      "demo": null,
+      "photos": null,
+      "video": "https://devchat.tv/adv-in-angular/aia-299-working-with-google-maps-on-angular-with-katerina-skroumpelou/"
+    },
+    "conf_info": {
+      "website": "https://devchat.tv/podcasts/adv-in-angular/",
+      "location": "online",
+      "coords": [],
+      "venue": "online",
+      "date": "September 15th, 2020"
+    },
+    "conf_name": "Adventures in Angular",
+    "conf_code": "adventuresinangular",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=ij3AehQwZNE",
+    "title": "Google Maps JS API - Directions Service",
+    "description": "Now that we're all stuck at home, let's see how we can find directions to all the places we want to go when we leave the house!\nIn this short talk, we'll see how easy and fast it is to add the Google Maps Directions service to your application! Let your users decide how they can reach you, using the API that you, too, use daily when moving around in the city!",
+    "date": "June 10th, 2020",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-06-09T21:00:00.000Z",
+    "media": {
+      "slides": "https://docs.google.com/presentation/d/e/2PACX-1vTUFeG4cfooodb3wb6lPeirRnRNUxZmsHDSuxkBMcBfZEdjski0kck9OXKtUSshYjirxan5tGVLkbmA/pub?start=false&loop=false&delayms=3000",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=ij3AehQwZNE"
+    },
+    "conf_info": {
+      "website": "https://warsawjs.com/",
+      "location": "online",
+      "coords": [37.9780948, 23.712103],
+      "venue": "online",
+      "date": "June 10th, 2020"
+    },
+    "conf_name": "WarsawJS June 2020",
+    "conf_code": "warsawjs",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=S3D8t7acksw",
+    "title": "Google Maps in Angular",
+    "description": "Using Google Maps in Angular and the Google Maps JS API in General, as part of the Google Cloud Platform",
+    "date": "May 29th, 2020",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-05-28T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/mw",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=S3D8t7acksw"
+    },
+    "conf_info": {
+      "website": "https://www.thisdot.co/modern-web",
+      "location": "online",
+      "coords": [37.9780948, 23.712103],
+      "venue": "online",
+      "date": "May 29th, 2020"
+    },
+    "conf_name": "Angular International Women's Day 2020",
+    "conf_code": "angularwomensday",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://jsvidcon.com/team-member/katerina-skroumpelou/",
+    "title": "Angular & Google Maps",
+    "description": "Using Angular, we will explore the possibilities of the Google Maps Platform and the Google Maps JS API. If you think of any app today, chances are it's using some kind of map. Your app has users, your users have a location, your services are based on that. Still, we find it worrisome to just add that customized, branded, interactive map in our app, because it just might seem too complicated. And we resort to out of the box solutions. Well, good news. The Google Maps JS API is here for you (and it’s been here for the last 15 years, despite you not making the most of it). Today we’ll see how simple it is to add that desired map to your business, brand it to your needs, and go advanced all the way, with this one weird trick that will make other web map library users hate you.",
+    "date": "May 7th, 2020",
+    "impact": {
+      "value": "1,000",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-05-06T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/mw",
+      "code": [],
+      "demo": [],
+      "photos": []
+    },
+    "conf_info": {
+      "website": "https://jsvidcon.com/",
+      "location": "online",
+      "coords": [37.9780948, 23.712103],
+      "venue": "online",
+      "date": "May 7th, 2020"
+    },
+    "conf_name": "JSVidCon",
+    "conf_code": "jsvidcon",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Google-Developer-Group-Athens-Meetup/events/266430364/",
+    "title": "You can do that with Google Maps?",
+    "description": "This is the question that will be whispered among the audience during the talk. We will explore the possibilities of the Google Maps Platform and the Google Maps JS API. If you think of any app today, chances are it's using some kind of map. Your app has users, your users have a location, your services are based on that. Still, we find it worrisome to just add that customized, branded, interactive map in our app, because it just might seem too complicated. And we resort to out of the box solutions. Well, good news. The Google Maps JS API is here for you (and it’s been here for the last 15 years, despite you not making the most of it). Today we’ll see how simple it is to add that desired map to your business, brand it to your needs, and go advanced all the way, with this one weird trick that will make other map library users hate you.",
+    "date": "15 March 2020",
+    "impact": {
+      "value": "105",
+      "label": "People Attended"
+    },
+    "timestamp": "2020-03-14T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/ng-spain",
+      "code": ["https://github.com/mandarini/ng-gmap"],
+      "demo": ["https://ng-gmap-kat.web.app"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://ngspain.com/",
+      "location": "Madrid, Spain",
+      "coords": [40.412513, -3.718234],
+      "venue": "Google for Startups Campus",
+      "date": "October 19th, 2019"
+    },
+    "conf_name": "ngSpain 2019",
+    "conf_code": "ngSpain",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://psybercity.page.link/gdgath",
+    "title": "You can do that with Google Maps?",
+    "description": "This is the question that will be whispered among the audience during the talk. We will explore the possibilities of the Google Maps Platform and the Google Maps JS API. If you think of any app today, chances are it's using some kind of map. Your app has users, your users have a location, your services are based on that. Still, we find it worrisome to just add that customized, branded, interactive map in our app, because it just might seem too complicated. And we resort to out of the box solutions. Well, good news. The Google Maps JS API is here for you (and it’s been here for the last 15 years, despite you not making the most of it). Today we’ll see how simple it is to add that desired map to your business, brand it to your needs, and go advanced all the way, with this one weird trick that will make leaflet users hate you.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/12/13/120ea325e72a27b935d2.jpg",
+    "date": "December 12th, 2019",
+    "impact": {
+      "value": "40",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-12-11T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/ng-spain",
+      "code": ["https://github.com/mandarini/ng-gmap"],
+      "demo": ["https://ng-gmap-kat.web.app"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://ngspain.com/",
+      "location": "Madrid, Spain",
+      "coords": [40.412513, -3.718234],
+      "venue": "Google for Startups Campus",
+      "date": "October 19th, 2019"
+    },
+    "conf_name": "ngSpain 2019",
+    "conf_code": "ngSpain",
+    "extras": []
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://github.com/mandarini/gmap-vanilla-start",
+    "title": "Google Maps Platform: Adding Geo to your Web Apps",
+    "description": "Designed to teach participants how to use the Google Maps Platform, and enable them to enhance the user experience of their apps and businesses using maps. This is a framework agnostic course. The Google Maps JavaScript API can be integrated in any app of any framework. We might use a framework to create a wrapper app for our map, but we will use vanilla JavaScript to interact with the Google Maps API.",
+    "date": "November 19th, 2019",
+    "impact": {
+      "value": "20",
+      "label": "People Trained"
+    },
+    "timestamp": "2019-11-18T22:00:00.000Z",
+    "media": {
+      "code": ["https://github.com/mandarini/gmap-vanilla-start"],
+      "demo": ["https://ng-gmap-kat.web.app"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://www.thisdot.co/",
+      "location": "online",
+      "coords": [],
+      "venue": "online",
+      "date": "November 19th, 2019"
+    },
+    "conf_name": "This Dot Media Online Training",
+    "conf_code": "workshop_thisdot",
+    "extras": ["Second in a series of online trainings for This Dot."]
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.frontmania.com/conference",
+    "title": "There’s no talent (or luck or favoritism), just hard work - but is it worth it?",
+    "description": "If you’re sitting there wondering “How did they manage that?“, well, you now have the answer. In this talk we’ll go through all the clichés and myths concerning “life achievements”, including the term “life achievements”. In our culture, in our age and time, and in our industry, burnout and the impostor syndrome are real. But so are toxic environments that ask you to overwork yourself. And so are toxic people who like to think that those who “made it” (another cliché we’ll talk about) did so because they got lucky or favored. But let’s take a step back and think for a second. Let’s redefine our goals and choices and let’s think about what drives them. Is a “life achievement” a generally accepted standard? When will you feel that you finally “made it”? Is our perception of success driven by what we really want, or rather by movies, rockstar developers, and the life of Steve Jobs?",
+    "date": "November 15th, 2019",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-11-14T22:00:00.000Z",
+    "media": {
+      "photos": []
+    },
+    "conf_info": {
+      "website": "https://frontmania.com/",
+      "location": "Utrecht, Netherlands",
+      "coords": [52.08608183098601, 5.109298112218157],
+      "venue": "Rabobank Duisenberg Auditorium",
+      "date": "November 15th, 2019"
+    },
+    "conf_name": "Frontmania 2019",
+    "conf_code": "frontmania",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://psybercity.page.link/ng-spain",
+    "title": "You can do that with Google Maps?",
+    "description": "This is the question that will be whispered among the audience during the talk. Using Angular, we will explore the possibilities of the Google Maps Platform and the Google Maps JS API. If you think of any app today, chances are it's using some kind of map. Your app has users, your users have a location, your services are based on that. Still, we find it worrisome to just add that customized, branded, interactive map in our app, because it just might seem too complicated. And we resort to out of the box solutions. Well, good news. The Google Maps JS API is here for you (and it’s been here for the last 15 years, despite you not making the most of it). Today we’ll see how simple it is to add that desired map to your business, brand it to your needs, and go advanced all the way, with this one weird trick that will make leaflet users hate you.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/10/31/d9a1032e80e7f64c7411.jpeg",
+    "date": "October 19th, 2019",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-10-18T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/ng-spain",
+      "code": ["https://github.com/mandarini/ng-gmap"],
+      "demo": ["https://ng-gmap-kat.web.app"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://ngspain.com/",
+      "location": "Madrid, Spain",
+      "coords": [40.412513, -3.718234],
+      "venue": "Google for Startups Campus",
+      "date": "October 19th, 2019"
+    },
+    "conf_name": "ngSpain 2019",
+    "conf_code": "ngSpain",
+    "extras": []
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://www.eventbrite.com/e/google-cloud-functions-and-firebase-scaling-your-app-for-your-needs-tickets-67751349109",
+    "title": "Google Cloud Functions and Firebase - Scaling your app for your needs",
+    "description": "Google Cloud Functions are a way to expand the capabilities of Firebase. In this training, we’ll see a full solution of how to create a web app backed by the serverless power of Google Cloud. We are going to store data in Cloud Firestore, we will learn how to schedule a job with the Google Cloud Scheduler, which will manipulate and back up this data, and finally send push notifications to our users. Reading and writing data to Cloud Firestore has a set of predefined methods, which might or might not meet our needs. What we will also learn in this training is how to create custom compound queries and data selections, using Cloud Functions triggered by the user. Finally, we will deploy our application on Firebase hosting.\n\nThis remote, hands-on workshop is targeted for web developers who want to learn how to take full advantage of what Firebase and Google Cloud offer. Participants may have little or no experience with Firebase or serverless technologies.",
+    "date": "October 8th, 2019",
+    "impact": {
+      "value": "20",
+      "label": "People Trained"
+    },
+    "timestamp": "2019-10-07T21:00:00.000Z",
+    "media": {
+      "slides": "https://docs.google.com/presentation/d/e/2PACX-1vQR0IVevvtTDhQqWeJViKSl7r5dA02IzEqH6GhKI47Ji9PwMN9HC7lsgXnq7heL-Mpru3AXfSesp4LG/pub?start=false&loop=false&delayms=3000",
+      "docs": "https://github.com/mandarini/shop-start/blob/master/tutorial/Step00.md",
+      "code": [
+        "https://github.com/mandarini/shop-start/blob/",
+        "https://github.com/mandarini/shop"
+      ],
+      "demo": ["https://shop-katerina.web.app/"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://devstaff.gr/",
+      "location": "online",
+      "coords": [37.9780948, 23.712103],
+      "venue": "online",
+      "date": "October 8th, 2019"
+    },
+    "conf_name": "This Dot Media Online Training",
+    "conf_code": "workshop_thisdot",
+    "extras": ["First in a series of online trainings for This Dot."]
+  },
+  {
+    "postType": "Workshops",
+    "link": "http://ng-girls.org/angular-online2019/",
+    "title": "ngGirls online",
+    "description": "Organized ngGirls online.",
+    "date": "28 September 2019",
+    "impact": {
+      "value": "15",
+      "label": "People Trained"
+    },
+    "timestamp": "2019-09-27T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=6RfD4r5DEYc",
+    "title": "Creating A More Sustainable Development Team with Angular and the PAMstack",
+    "description": "In this talk we’ll discuss the ideas around how to create an sustainable architecture for your team through the PAMstack, a new framework for creating inclusive development teams. We’ll talk about some of the abstractions and tools that Angular has to enable the longevity and success of your teams to support junior developers, designers, project managers, and more. No application is too critical, complicated, or obscure to be able to achieve this.\n\nWe will also talk through how you can build a corresponding culture that allows inclusivity on your team, and why this is so critical to your business. We’ll walk through processes you can incorporate, team roles, and how you can build a better template for the future.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/10/02/20b6a5b234872a059e83.jpg",
+    "date": "August 30th, 2019",
+    "impact": {
+      "value": "400",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-08-29T21:00:00.000Z",
+    "media": {
+      "slides": "",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=6RfD4r5DEYc"
+    },
+    "conf_info": {
+      "website": "https://ng-de.org/",
+      "location": "Berlin, Germany",
+      "coords": [52.524441, 13.34629],
+      "venue": "BOLLE FESTSÄLE",
+      "date": "August 30th, 2019"
+    },
+    "conf_name": "NG-DE 2019",
+    "conf_code": "ngde",
+    "extras": []
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/watch?v=C0sEEww274Y",
+    "title": "Angularfire, the library that connects firebase and angular",
+    "description": "Angularfire / the library that connects Firebase & Angular.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/10/02/e7209e160554a858c421.png",
+    "date": "August 1st, 2019",
+    "impact": {
+      "value": "200",
+      "label": "Views"
+    },
+    "timestamp": "2019-08-20T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/mw",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=C0sEEww274Y"
+    },
+    "conf_info": {
+      "website": "https://www.thisdot.co/modern-web",
+      "location": "online",
+      "coords": [37.9780948, 23.712103],
+      "venue": "online",
+      "date": "August 1st, 2019"
+    },
+    "conf_name": "Modern Web - Angular Online",
+    "conf_code": "modernweb",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://psybercity.page.link/cloud",
+    "title": "Tired of searching for a new house? Let Google Cloud do it for you",
+    "description": "You are on the lookout for a new house, but you are always a few hours late to spot it, someone has already called and booked it and you keep missing good opportunities. You can’t keep visiting that housing site every few minutes, hoping to run into that fresh ad, you’ve got work to do. But what if Google Cloud could do it all for you? And get into the trouble of notifying you with all it found, as well? In this session, we’ll see a full solution of how to create an Angular app backed by the serverless power of Google Cloud. We are going to store data, schedule a job that will write and edit this data, write a function that will observe these data, and push notifications to our app users. That is, all that your typical business website would need and couldn’t have because you just can’t have your own servers.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/07/15/df4af9d4213a195ff0ab.jpg",
+    "date": "July 9th, 2019",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-07-08T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/cloud",
+      "code": ["https://github.com/mandarini/parser"],
+      "demo": [],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://www.meetup.com/Angular-Athens/",
+      "location": "Athens, Greece",
+      "coords": [37.9780948, 23.712103],
+      "venue": "InnovAthens, Technopolis",
+      "date": "July 9th, 2019"
+    },
+    "conf_name": "Angular Athens 7th Meetup",
+    "conf_code": "angularathens",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Larissa-Developers-Meetup/events/261475460/",
+    "title": "Making apps happen with Firebase and Angular",
+    "description": "Step by step, talk/demo of how to structure an app using Angular and Firebase. Demo-ed Firestore, Authentication, Cloud Messaging, Cloud Functions, push notifications.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/05/27/cfd191af69921493c761.jpg",
+    "date": "May 24, 2019",
+    "impact": {
+      "value": "80",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-05-23T21:00:00.000Z",
+    "media": {
+      "slides": "",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://www.meetup.com/Larissa-Developers-Meetup/events/261475460/",
+      "location": "Larissa, Greece",
+      "coords": [39.636421, 22.40268],
+      "venue": "Linto Project, Larissa",
+      "date": "May 24, 2019"
+    },
+    "conf_name": "Larissa Developers Meetup",
+    "conf_code": "larissa_dev",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/6RobEjMnHtQ",
+    "title": "It's just a compliment after all!",
+    "description": "Some compliments just don’t work. Being a woman in tech highlights this phenomenon in sometimes cringe-worthy ways. And in some cases, certain “compliments” are just inappropriate. So how do we make friendships and set the right tone for compliments? I will talk about ways to do this in a professional setting, where both the person sending the compliment and the person receiving the compliment get the benefit of the spirit in which the compliment was intended. You’ll be able apply these ideas to anyone you work with, not just women.",
+    "date": "May 1-3, 2019",
+    "impact": {
+      "value": "300",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-05-01T21:00:00.000Z",
+    "media": {
+      "slides": "",
+      "code": [],
+      "demo": [],
+      "photos": [],
+      "video": "https://youtu.be/6RobEjMnHtQ"
+    },
+    "conf_info": {
+      "website": "https://www.ng-conf.org/",
+      "location": "Salt Lake City, UT",
+      "coords": [38.0400906, 23.8180912],
+      "venue": "Grand America Hotel, Salt Lake City, UT",
+      "date": "May 1-3, 2019"
+    },
+    "conf_name": "ng Conf 2019",
+    "conf_code": "ng_conf",
+    "extras": []
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://www.youtube.com/watch?v=Rq4vjSkidPk",
+    "title": "Reactive Forms DEmystified - with Sani Yusuf",
+    "date": "May 1-3, 2019",
+    "impact": {
+      "value": "150",
+      "label": "People Trained"
+    },
+    "timestamp": "2019-05-01T21:00:00.000Z",
+    "media": {
+      "slides": null,
+      "docs": null,
+      "code": null,
+      "demo": null,
+      "photos": [],
+      "video": "https://youtu.be/Rq4vjSkidPk"
+    }
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://realtalkjavascript.simplecast.fm/05791005",
+    "title": "Real Talk JavaScript Episode 26: Firebase with Katerina Skroumpelou",
+    "description": "I was invited in an episode of \"Real Talk JavaScript\", \"A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications, with hosts John Papa, Ward Bell, and Dan Wahlin.\" I talked about Firebase, my experience using it, use cases, security rules, Firestore and more.",
+    "date": "April 2, 2019",
+    "impact": {
+      "value": "100",
+      "label": "Views"
+    },
+    "timestamp": "2019-04-01T21:00:00.000Z",
+    "media": {
+      "slides": null,
+      "code": null,
+      "demo": null,
+      "photos": null,
+      "video": "https://realtalkjavascript.simplecast.fm/05791005"
+    },
+    "conf_info": {
+      "website": "https://realtalkjavascript.simplecast.fm/",
+      "location": "online",
+      "coords": [],
+      "venue": "online",
+      "date": "April 2, 2019"
+    },
+    "conf_name": "RealTalk JavaScript",
+    "conf_code": "real_talk_js",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "http://goo.gl/hrV5zs",
+    "title": "Machine Learning - Angular can learn too!",
+    "description": "That talk was at Women Techmakers Greece IWD19 summit in Athens!\n\nIt was about machine learning, tensorflowjs and Angular!",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/03/30/ad107b24b08f0c0e5f93.jpg",
+    "date": "March 30th, 2019",
+    "impact": {
+      "value": "130",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-03-29T22:00:00.000Z",
+    "media": {
+      "slides": "https://goo.gl/hrV5zs",
+      "code": [
+        "https://github.com/mandarini/accessible",
+        "https://github.com/mandarini/signlock"
+      ],
+      "demo": ["https://signlock-psyb.firebaseapp.com"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://womentechmakers.gr/iwd19/",
+      "location": "Athens, Greece",
+      "coords": [37.9731324, 23.7055633],
+      "venue": "SERAFEIO ATHLETIC & COMMUNITY COMPLEX",
+      "date": "March 30th, 2019"
+    },
+    "conf_name": "Women Techmakers Greece - IWD19",
+    "conf_code": "wtm_greece",
+    "extras": []
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://www.meetup.com/devstaff/events/258697846/",
+    "title": "Getting Real-Time with Firebase and Angular",
+    "description": "The participants will work hands on with Firebase on an Angular application, using @angular/fire. They will walk along a journey of designing an app, setting out data requirements, and then putting these things into practice with Angular and Firebase. At the end of this workshop, each participant will have created and deployed a web application.\nFirebase acts as a backend as a service and takes care of real time synchronisation across apps and platforms. The participants will learn about and use the main Firebase modules needed to develop a simple social application. They will use Authentication, the Cloud Firestore and Firebase hosting.\n\nBest practices about application planning will be discussed, like structuring the data in the API and decisions that need to be made in advance. We will also check our application against the Audits of the Lighthouse tool.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/03/22/73f6b279530cc7ad100e.jpg",
+    "date": "March 21st, 2019",
+    "impact": {
+      "value": "35",
+      "label": "People Trained"
+    },
+    "timestamp": "2019-03-20T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/devstaff",
+      "docs": "https://github.com/mandarini/chat-workshop-docs",
+      "code": ["https://github.com/mandarini/chat-workshop-steps"],
+      "demo": ["https://fbw-app.firebaseapp.com/"],
+      "photos": [],
+      "video": null
+    },
+    "conf_info": {
+      "website": "https://devstaff.gr/",
+      "location": "Heraklion, Crete",
+      "coords": [35.340906, 25.1341121],
+      "venue": "h2b hub",
+      "date": "March 21st, 2019"
+    },
+    "conf_name": "DevStaff Herakleion",
+    "conf_code": "devstaff_her",
+    "extras": ["First in a series of workshops and talks around Greece"]
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://www.youtube.com/watch?v=ObTe60S96yk",
+    "title": "Modern Web Online - Exploring the Lighthouse",
+    "description": "Online event about all things web organized by ThisDot Media - My talk was about Lighthouse - Other people on the event: Ben Morss, Uri Goldshtein",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/03/13/601a0f676ee4a376a0cc.png",
+    "date": "March 13, 2019",
+    "impact": {
+      "value": "100",
+      "label": "Views"
+    },
+    "timestamp": "2019-03-12T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/modern-web",
+      "code": ["https://github.com/mandarini/explorer"],
+      "demo": ["https://mandarini.github.io/explorer"],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=ObTe60S96yk"
+    },
+    "conf_info": {
+      "website": "https://www.thisdot.co/modern-web",
+      "location": "online",
+      "coords": [],
+      "venue": "online",
+      "date": "March 13, 2019"
+    },
+    "conf_name": "Modern Web Online",
+    "conf_code": "modern_web",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://psybercity.page.link/aa5",
+    "title": "Exploring the Lighthouse",
+    "description": "In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications.\nWe’ll finetune our web app, picking and adding code here and there to improve these numbers. We’ll talk about the concepts of the manifest, the serviceworker, the app responsiveness, no javascript environments, and how these are evaluated by the Lighthouse tool.\nThe purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/03/04/f6a456f90ef0b585f157.JPG",
+    "date": "February 26th, 2019",
+    "impact": {
+      "value": "130",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-02-25T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/vthess",
+      "code": ["https://github.com/mandarini/explorer"],
+      "demo": ["https://mandarini.github.io/explorer"],
+      "photos": [],
+      "video": "https://youtu.be/iDdKlM26xsc"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/thessaloniki/",
+      "location": "Thessaloniki, Greece",
+      "coords": [40.6258549, 22.9526225],
+      "venue": "Ioannis Velidis Conference Centre",
+      "date": "November 19-20, 2018"
+    },
+    "conf_name": "Voxxed Days Thessaloniki",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://psybercity.page.link/ng-atl",
+    "title": "Machine Learning - Angular can Learn, too!",
+    "description": "Last March the much-awaited TensorflowJs hit the web. In this presentation, it will hit Angular as well. Tensorflow is a “an open source machine learning framework” by Google, and it is finally available to run in our browsers, too. In this presentation we will go through the core concepts of machine learning, and see how these are put into practice with TensorflowJs. We will briefly discuss use-cases and see how machine learning (and now you and your browser) can help solve everyday problems (such as image recognition, computer vision, pattern recognition, sentiment analysis etc). There will be a live demo, of course, of Angular and TensorflowJs implementation, where we will see how these two work together, and what we can make of this union. At the end of this presentation, the participants will want to rush home and get their hands dirty with the future of web, that is the magic of JavaScript enabled machine learning.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/01/14/b543a9626d77c960ebcd.jpg",
+    "date": "January 9-12, 2019",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "timestamp": "2019-01-09T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/ng-atl",
+      "code": [
+        "https://github.com/mandarini/accessible",
+        "https://github.com/mandarini/signlock"
+      ],
+      "demo": ["https://signlock-psyb.firebaseapp.com/home"],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://2019.ng-atl.org/",
+      "location": "Atlanta, GA",
+      "coords": [34.0715313, -84.2725293],
+      "venue": "The Hotel at Avalon 9000 Avalon Blvd",
+      "date": "January 9-12, 2019"
+    },
+    "conf_name": "ngAtlanta",
+    "conf_code": "ng_atlanta",
+    "extras": [
+      "Participated in the Diversity Panel of ThisDot on the first day of the conference, and the Diversity Fireside Chat"
+    ]
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "http://psybercity.page.link/fec",
+    "title": "Exploring the Lighthouse",
+    "description": "All features of the lighthouse tool of Chrome Dev Tools.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/05/0a10b12aecb7bee5a825.jpg",
+    "date": "December 4, 2018",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-12-03T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/vthess",
+      "code": ["https://github.com/mandarini/explorer"],
+      "demo": ["https://mandarini.github.io/explorer"],
+      "photos": [],
+      "video": "https://youtu.be/iDdKlM26xsc"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/thessaloniki/",
+      "location": "Thessaloniki, Greece",
+      "coords": [40.6258549, 22.9526225],
+      "venue": "Ioannis Velidis Conference Centre",
+      "date": "November 19-20, 2018"
+    },
+    "conf_name": "Voxxed Days Thessaloniki",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://goo.gl/CDo9Ze",
+    "title": "The importance of Angular in building web applications",
+    "description": "The importance of Angular in building web applications and also a small intro about our Angular community in Athens. Presenting with me: Giannis Smirnios.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/05/d897f8cf9bd4f7ee8f39.jpg",
+    "date": "December 1, 2018",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-11-30T22:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/iDdKlM26xsc",
+    "title": "Exploring the Lighthouse",
+    "description": "In this session will explore the awesome Lighthouse tool and its cool features. We will start from bootstrapping a simple web application, and we will see how we can reach better scores in each of the five audits of Lighthouse, “PWA”, “Performance”, “Accessibility”, “Best Practices” and “SEO” in our web applications.\nWe’ll finetune our web app, picking and adding code here and there to improve these numbers. We’ll talk about the concepts of the manifest, the serviceworker, the app responsiveness, no javascript environments, and how these are evaluated by the Lighthouse tool.\nThe purpose of the talk will be to showcase how the Lighthouse tool can help us build better apps for the web, and the mobile web. And the accessible web. And the web where connectivity is poor and you end up playing T-Rex runner.",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/11/23/33d69df9c09d88ca8e63.jpg",
+    "date": "November 19-20, 2018",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-11-18T22:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/vthess",
+      "code": ["https://github.com/mandarini/explorer"],
+      "demo": ["https://mandarini.github.io/explorer"],
+      "photos": [],
+      "video": "https://youtu.be/iDdKlM26xsc"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/thessaloniki/",
+      "location": "Thessaloniki, Greece",
+      "coords": [40.6258549, 22.9526225],
+      "venue": "Ioannis Velidis Conference Centre",
+      "date": "November 19-20, 2018"
+    },
+    "conf_name": "Voxxed Days Thessaloniki",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://mandarini.github.io/ijsm",
+    "title": "Angular real time interactions with WebSockets",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server.\n",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/11/23/c03e75a4be2c017e7cfe.jpg",
+    "date": "October 17, 2018",
+    "impact": {
+      "value": "60",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-10-16T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/VoxxedAthens/",
+      "code": [
+        "https://github.com/mandarini/m",
+        "https://github.com/mandarini/im",
+        "https://github.com/mandarini/wsserver"
+      ],
+      "demo": [
+        "https://mandarini.github.io/m",
+        "https://mandarini.github.io/im"
+      ],
+      "photos": [],
+      "video": "https://youtu.be/Bf6VdqNbRVw"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/athens/",
+      "location": "Athens, Greece",
+      "coords": [38.0400906, 23.8180912],
+      "venue": "DAIS Cultural Centre",
+      "date": "June 1, 2018"
+    },
+    "conf_name": "Voxxed Days Athens",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Angular-Athens/events/254403394/",
+    "title": "Angular Athens 3rd Meetup",
+    "description": "Organized the Angular Athens 3rd Meetup. We had two talks, a quiz, a game, and other Angular related activities!",
+    "date": "18 September 2018",
+    "impact": {
+      "value": "130",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-09-17T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://mandarini.github.io/ngc-slides",
+    "title": "Angular real time interactions with WebSockets",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once we launch this application on our phone, it will start sending device motion data from our phone to the browser, using the brand new device event APIs to capture our device’s acceleration, orientation and motion, and our node.js server to perform the transmission. The browser will receive the motion data, and it will translate it into events and actions on the big screen! Tools that are going to be used are the WebSockets API, Angular, RxJS and a little Node.js server. Observable sequences will help us subscribe and listen to incoming messages, firing events in the process. The presentation will be interactive (users connected to the same network will be able to send data with their phone, too).",
+    "date": "September 6-7, 2018",
+    "impact": {
+      "value": "250",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-09-06T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/VoxxedAthens/",
+      "code": [
+        "https://github.com/mandarini/m",
+        "https://github.com/mandarini/im",
+        "https://github.com/mandarini/wsserver"
+      ],
+      "demo": [
+        "https://mandarini.github.io/m",
+        "https://mandarini.github.io/im"
+      ],
+      "photos": [],
+      "video": "https://youtu.be/Bf6VdqNbRVw"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/athens/",
+      "location": "Athens, Greece",
+      "coords": [38.0400906, 23.8180912],
+      "venue": "DAIS Cultural Centre",
+      "date": "June 1, 2018"
+    },
+    "conf_name": "Voxxed Days Athens",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Workshops",
+    "link": "https://psybercity.page.link/ngcw",
+    "title": "Getting Real-Time with Firebase and Angular",
+    "description": "The participants of this workshop will work hands on with Firebase in an Angular application. They will walk along a journey of developing an app with Angular and the real-time magic of Firebase, using the angularfire2 library. Firebase acts as a backend as a service and takes care of real time synchronization across apps and platforms. The participants will learn about and use the main Firebase modules needed to develop a simple social application. They will use Authentication, cloud storage and the Real-Time database. Best practices about application planning will be discussed, like structuring the data in the API and decisions that need to be made in advance. At the end of this workshop, each participant will have created and deployed a simple web application. The workshop needs prior knowledge of web development. Some basic Angular experience is preferable, but not essential. No prior knowledge of Firebase is needed. The users will need a web-development-friendly laptop (preferably a Unix-based system, or Windows with nodejs and npm installed).",
+    "date": "September 6-7, 2018",
+    "impact": {
+      "value": "40",
+      "label": "People Trained"
+    },
+    "timestamp": "2018-09-05T21:00:00.000Z",
+    "media": {
+      "slides": "https://psybercity.page.link/devstaff",
+      "docs": "https://github.com/mandarini/chat-workshop-docs",
+      "code": ["https://github.com/mandarini/chat-workshop-steps"],
+      "demo": ["https://fbw-app.firebaseapp.com/"],
+      "photos": [],
+      "video": null
+    },
+    "conf_info": {
+      "website": "https://devstaff.gr/",
+      "location": "Heraklion, Crete",
+      "coords": [35.340906, 25.1341121],
+      "venue": "h2b hub",
+      "date": "March 21st, 2019"
+    },
+    "conf_name": "DevStaff Herakleion",
+    "conf_code": "devstaff_her",
+    "extras": ["First in a series of workshops and talks around Greece"]
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.meetup.com/Angular-Athens/events/251981555/",
+    "title": "Angular Athens 2nd Meetup",
+    "description": "Organized the 2nd Angular Athens Meetup! We had two talks, networking time and other activities!",
+    "date": "3 July 2018",
+    "impact": {
+      "value": "90",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-07-02T21:00:00.000Z"
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://mandarini.github.io/ngUPPres/",
+    "title": "Angular - Maps - Users of Apps",
+    "description": "Maps, today, are an essential of the internet. Think of any app, and you will realize that it uses a map either to just display a location, or visualize data. Most of these apps, however, also use that map as a user interface, where the user can enter their location and receive corresponding, location based services or suggestions. Take for example car services apps (Uber, Beat), dating apps (Tinder), search-and-discovery apps (Foursquare), or any social app (Facebook, Twitter). In this presentation we will see how to create an Angular app that uses the Google Maps JS API and Firebase to match users together according to their chosen location! We will learn about Angular integration with Google Maps, user input on Google Maps and Angular and data display on Google Maps (the user generated data). The presentation will be interactive and engaging, since participants will be prompted to input their location and see the results live on the big screen. We will see code and examples and discuss implementation techniques.",
+    "date": "June 21, 2018",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-06-20T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/ngUPPres/",
+      "code": [
+        "https://github.com/mandarini/map-user",
+        "https://github.com/mandarini/map-dashboard"
+      ],
+      "demo": [
+        "https://mandarini.github.io/map-user",
+        "https://mandarini.github.io/map-dashboard"
+      ],
+      "photos": [],
+      "video": ""
+    },
+    "conf_info": {
+      "website": "https://angular-up.com/",
+      "location": "Tel Aviv, Israel",
+      "coords": [32.0654006, 34.7628841],
+      "venue": "Dan Panorama Tel -Aviv",
+      "date": "June 21, 2018"
+    },
+    "conf_name": "Angular UP",
+    "conf_code": "angular_up",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://mandarini.github.io/CodeEurope/",
+    "title": "Physical motion to Virtual motion with WebSockets",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once we launch this application on our phone, it will start sending device motion data from our phone to the browser, using the brand new device event APIs to capture our device’s acceleration, orientation and motion, and our node.js server to perform the transmission. The browser will receive the motion data, and it will translate it into events and actions on the big screen! Tools that are going to be used are the WebSockets API, Angular, RxJS and a little Node.js server. Observable sequences will help us subscribe and listen to incoming messages, firing events in the process. The presentation will be interactive (users connected to the same network will be able to send data with their phone, too).",
+    "date": "June 12, 2018",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-06-11T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/CodeEurope/",
+      "code": [
+        "https://github.com/mandarini/m",
+        "https://github.com/mandarini/im",
+        "https://github.com/mandarini/wsserver"
+      ],
+      "demo": [
+        "https://mandarini.github.io/m",
+        "https://mandarini.github.io/im"
+      ],
+      "photos": [],
+      "video": null
+    },
+    "conf_info": {
+      "website": "https://www.codeeurope.pl/",
+      "location": "Poznan, Poland",
+      "coords": [52.4026784, 16.911046],
+      "venue": "Międzynarodowe Targi Poznańskie",
+      "date": "June 12, 2018"
+    },
+    "conf_name": "Code Europe",
+    "conf_code": "code_europe",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/Bf6VdqNbRVw",
+    "title": "Angular real time interactions with WebSockets",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once we launch this application on our phone, it will start sending device motion data from our phone to the browser, using the brand new device event APIs to capture our device’s acceleration, orientation and motion, and our node.js server to perform the transmission. The browser will receive the motion data, and it will translate it into events and actions on the big screen! Tools that are going to be used are the WebSockets API, Angular, RxJS and a little Node.js server. Observable sequences will help us subscribe and listen to incoming messages, firing events in the process. The presentation will be interactive (users connected to the same network will be able to send data with their phone, too).",
+    "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/24/9fac43b9687a1c377f8f.png",
+    "date": "June 1, 2018",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-05-31T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/VoxxedAthens/",
+      "code": [
+        "https://github.com/mandarini/m",
+        "https://github.com/mandarini/im",
+        "https://github.com/mandarini/wsserver"
+      ],
+      "demo": [
+        "https://mandarini.github.io/m",
+        "https://mandarini.github.io/im"
+      ],
+      "photos": [],
+      "video": "https://youtu.be/Bf6VdqNbRVw"
+    },
+    "conf_info": {
+      "website": "https://voxxeddays.com/athens/",
+      "location": "Athens, Greece",
+      "coords": [38.0400906, 23.8180912],
+      "venue": "DAIS Cultural Centre",
+      "date": "June 1, 2018"
+    },
+    "conf_name": "Voxxed Days Athens",
+    "conf_code": "voxxed_days",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/H6L4XT7alXs",
+    "title": "Websockets turning physical motion into virtual motion!",
+    "description": "In my presentation, I will show how you can use physical motion (moving your phone around) to move graphics on the browser (virtual motion). We will see how to develop a simple application using WebSockets, Angular and a plain WebSocket client/server node.js server. Once connected from our phone, we will be sending device data from our phone to the browser (using the brand new device event APIs capturing device acceleration, orientation, motion). Tools that are going to be used will be the WebSockets API, Angular, RxJS and a little Node.js server. RxJS and its observable sequences will help us subscribe and listen to our incoming messages, firing events in the process. In the end, there will be an interactive session (users connected to the same network will be able to move graphics with their phone).",
+    "date": "May 18th, 2018",
+    "impact": {
+      "value": "500",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-05-17T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/WeAreDevsPres/",
+      "code": [
+        "https://github.com/mandarini/m",
+        "https://github.com/mandarini/im",
+        "https://github.com/mandarini/wsserver"
+      ],
+      "demo": [
+        "https://mandarini.github.io/m",
+        "https://mandarini.github.io/im"
+      ],
+      "photos": [],
+      "video": "https://youtu.be/H6L4XT7alXs"
+    },
+    "conf_info": {
+      "website": "https://events.wearedevelopers.com/",
+      "location": "Vienna, Austria",
+      "coords": [48.231617, 16.4109157],
+      "venue": "Austria Center",
+      "date": "May 18th, 2018"
+    },
+    "conf_name": "WeAreDevelopers",
+    "conf_code": "we_are_developers",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://www.youtube.com/watch?v=MbPPTzO2w58",
+    "title": "Angular with Maps? It’s Maptastic!",
+    "description": "More and more web applications using Angular today need a kind of map, either to just display their location, or visualize their data. These data can be from points/locations of services/places/etc, or a user input, to more complex visuals like heatmaps or paths. These visualizations can easily be achieved with the Google Maps JS API. However, the integration with Angular and the use of its tools is not always straightforward. In this presentation I will show examples of how to integrate Google Maps easily into your Angular application without the use of any external libraries. Part of the presentation will also show some techniques for visualising spatial data on these maps.",
+    "date": "Apr 12-13, 2018",
+    "impact": {
+      "value": "400",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-04-13T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/iJSPresentation",
+      "code": ["https://github.com/mandarini/mapp"],
+      "demo": ["https://mandarini.github.io/mapp"],
+      "photos": [],
+      "video": "https://www.youtube.com/watch?v=MbPPTzO2w58"
+    },
+    "conf_info": {
+      "website": "https://javascript-conference.com/",
+      "location": "London, UK",
+      "coords": [51.5355906, -0.1069841],
+      "venue": "Business Design Centre",
+      "date": "Apr 12-13, 2018"
+    },
+    "conf_name": "iJS London",
+    "conf_code": "ijs",
+    "extras": []
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/PqfJbbWdUWQ",
+    "title": "Web Maps - Putting the M in Angular web apps!",
+    "description": "More and more web applications using Angular today need a kind of map, either to just display their location, or visualize their data. These data can be from points/locations of services/places/etc, or a user input, to more complex visuals like heatmaps or paths. These visualizations can easily be achieved with OpenLayers open source library, or even the Google Maps JS API. However, the integration with Angular and the use of its tools is not always straightforward. In this presentation I will show examples of how to integrate OpenLayers and Google Maps easily into your Angular application without the use of any external libraries. Part of the presentation will also show some techniques for visualising spatial data on these maps.",
+    "date": "March 1-2, 2018",
+    "impact": {
+      "value": "400",
+      "label": "People Attended"
+    },
+    "timestamp": "2018-03-1T21:00:00.000Z",
+    "media": {
+      "slides": "https://mandarini.github.io/ngVPresentation",
+      "code": ["https://github.com/mandarini/mapp"],
+      "demo": ["https://mandarini.github.io/mapp"],
+      "photos": [
+        "https://firebasestorage.googleapis.com/v0/b/psybercity.appspot.com/o/conferences%2FngVikings%2Fkaterina14.jpg?alt=media&token=2c263f26-3992-4382-91cc-e36a1a8cef9c",
+        "https://firebasestorage.googleapis.com/v0/b/psybercity.appspot.com/o/conferences%2FngVikings%2Fkaterina4.jpg?alt=media&token=aeb2fb1b-a58b-4dbe-89df-722923f1ab2d"
+      ],
+      "video": "https://youtu.be/PqfJbbWdUWQ"
+    },
+    "conf_info": {
+      "website": "https://ngvikings.org/",
+      "location": "Helsinki, Finland",
+      "coords": [60.1866623, 24.823241],
+      "venue": "Aalto University",
+      "date": "March 1-2, 2018"
+    },
+    "conf_name": "ngVikings",
+    "conf_code": "ng_vikings",
+    "extras": ["Mentored ngGirls!"]
+  },
+  {
+    "postType": "Public Speaking",
+    "link": "https://youtu.be/nPhvfyJb6mM",
+    "title": "From Buildings to Software - Paving the Way to Construction",
+    "description": "As an architectural engineer by training, and working as a web dev for the past couple of years, Katerina will explain how architecture has defined the way she designs web apps and pages and how Angular has supported her in organising content. A web page for me is like the facade of a house. From day one into web development, I looked at apps as if setting down plans for a new building. The process, like the process of building from the ground an establishment. I want to talk about scaffolding. I want to extend on designing the building blocks, the bricks made out of components. And as the construction is evolving, how materials fill in the empty spaces, making them consistent.",
+    "date": "November 7–8, 2017",
+    "impact": {
+      "value": "700",
+      "label": "People Attended"
+    },
+    "timestamp": "2017-11-7T21:00:00.000Z",
+    "media": {
+      "slides": "https://goo.gl/3JoE6B",
+      "code": null,
+      "demo": null,
+      "photos": [
+        "https://firebasestorage.googleapis.com/v0/b/psybercity.appspot.com/o/conferences%2Fangularconnect%2F26529830919_807db6f7bc_o%20(1).jpg?alt=media&token=bba38dcb-b3af-4fa8-9b7b-590763384e06",
+        "https://firebasestorage.googleapis.com/v0/b/psybercity.appspot.com/o/conferences%2Fangularconnect%2F26529832799_28fdeda28d_o%20(1).jpg?alt=media&token=38b9b5be-9130-4d2f-b945-d50cf78d4475"
+      ],
+      "video": "https://youtu.be/nPhvfyJb6mM"
+    },
+    "conf_info": {
+      "website": "https://www.angularconnect.com/",
+      "location": "London, UK",
+      "coords": [51.5084634, 0.0276573],
+      "venue": "ExCel London",
+      "date": "November 7–8, 2017"
+    },
+    "conf_name": "Angular Connect",
+    "conf_code": "angular_connect",
+    "extras": ["Mentored ngGirls!"]
   }
 ]
