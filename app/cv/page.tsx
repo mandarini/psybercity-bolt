@@ -89,7 +89,7 @@ export default function CV() {
                 <h3 className="font-medium text-lg">Nx - nx.dev</h3>
                 <p className="text-secondary">Product Advocate</p>
                 <p className="text-muted-foreground mt-2">
-                  Advocating for Nx and its ecosystem, creating content, and engaging with the community.
+                  Advocating for Nx and Nx Cloud. Helping customers succeed.
                 </p>
               </div>
               <span className="text-sm text-muted-foreground whitespace-nowrap">September 2024 - now</span>
@@ -103,7 +103,7 @@ export default function CV() {
                 <p className="text-secondary">Senior Engineer</p>
                 <ul className="list-disc list-inside text-muted-foreground mt-2 space-y-1">
                   <li>July 2020 - October 2022: Consultant/engineer at T-mobile USA</li>
-                  <li>July 2020 - September 2024: Nx core team: leading the @nx/storybook package, vite, vue, nuxt, rspack integrations</li>
+                  <li>July 2020 - September 2024: Nx core team: working on the @nx/storybook package, vite, vue, nuxt, rspack integrations</li>
                   <li>Nx AI team: working on AI solutions for Nx</li>
                   <li>Nx Cloud team: working on our cloud solution nx.app</li>
                 </ul>
@@ -139,7 +139,7 @@ export default function CV() {
           <div className="border-l-2 border-secondary/20 pl-4">
             <div className="flex justify-between items-start">
               <div>
-                <h3 className="font-medium text-lg">National Centre for Scientific Research "Demokritos"</h3>
+                <h3 className="font-medium text-lg">National Centre for Scientific Research &quot;Demokritos&quot;</h3>
                 <p className="text-muted-foreground">Web Developer of the Integrated Systems Laboratory of the Institute of Informatics and Telecommunications. Developing applications for European Commision Research programs, based on airport security and fire service fleet management.</p>
               </div>
               <span className="text-sm text-muted-foreground whitespace-nowrap">Jul 2015 - Aug 2017</span>
@@ -302,7 +302,7 @@ export default function CV() {
               <div className="flex justify-between items-start">
                 <div>
                   <h4 className="font-medium">Teaching</h4>
-                  <p className="text-muted-foreground">Teacher/Instructor at Robotics Summer School of National Centre for Scientific Research "Demokritos", teaching kids aged 12-17 the basics of computer programming using C.</p>
+                  <p className="text-muted-foreground">Teacher/Instructor at Robotics Summer School of National Centre for Scientific Research &quot;Demokritos&quot;, teaching kids aged 12-17 the basics of computer programming using C.</p>
                 </div>
                 <span className="text-sm text-muted-foreground">June 2016 & June 2017</span>
               </div>
@@ -312,7 +312,7 @@ export default function CV() {
               <div className="flex justify-between items-start">
                 <div>
                   <h4 className="font-medium">Teaching Assistance</h4>
-                  <p className="text-muted-foreground">Teaching assistance for the course "Computer Network Security" at NTUA, School of Electrical and Computer Engineering</p>
+                  <p className="text-muted-foreground">Teaching assistance for the course &quot;Computer Network Security&quot; at NTUA, School of Electrical and Computer Engineering</p>
                 </div>
                 <span className="text-sm text-muted-foreground">May-June 2015</span>
               </div>
@@ -322,7 +322,7 @@ export default function CV() {
               <div className="flex justify-between items-start">
                 <div>
                   <h4 className="font-medium">Research Project Team Member</h4>
-                  <p className="text-muted-foreground">Team member of the UK-based research project "Cities Unlocked", a collaboration of the Future Cities Catapult, Microsoft, CASA UCL and GuideDogs for the Blind Association.</p>
+                  <p className="text-muted-foreground">Team member of the UK-based research project &quot;Cities Unlocked&quot;, a collaboration of the Future Cities Catapult, Microsoft, CASA UCL and GuideDogs for the Blind Association.</p>
                 </div>
                 <span className="text-sm text-muted-foreground">Jan 2014 - Sep 2014</span>
               </div>
