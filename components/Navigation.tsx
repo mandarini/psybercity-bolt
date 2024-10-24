@@ -25,7 +25,9 @@ export default function Navigation() {
           <div className="flex items-center gap-6">
             <Link href="/" className="flex items-center gap-2 group">
               <Cat className="h-5 w-5 text-primary group-hover:text-secondary transition-colors duration-200" />
-              <span className="font-medium group-hover:text-secondary transition-colors duration-200">Portfolio</span>
+              <span className="font-medium group-hover:text-secondary transition-colors duration-200">
+                psybercity
+              </span>
             </Link>
             {links.map(({ href, label }) => (
               <Link
