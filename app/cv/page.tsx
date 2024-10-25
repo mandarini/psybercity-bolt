@@ -27,7 +27,7 @@ export default function CV() {
 
         <div className="flex flex-wrap gap-4 text-muted-foreground">
           <Link
-            href="mailto:sk.katherine@gmail.com"
+            href="mailto:"
             className="flex items-center gap-2 hover:text-accent"
           >
             <Mail className="h-4 w-4" />
@@ -152,11 +152,17 @@ export default function CV() {
                     USA
                   </li>
                   <li>
-                    July 2020 - September 2024: Nx core team: leading the
+                    July 2020 - February 2024: Nx core team: working on the
                     @nx/storybook package, vite, vue, nuxt, rspack integrations
                   </li>
-                  <li>Nx AI team: working on AI solutions for Nx</li>
-                  <li>Nx Cloud team: working on our cloud solution nx.app</li>
+                  <li>
+                    February 2024 - August 2024: Nx AI team: working on AI
+                    solutions for Nx
+                  </li>
+                  <li>
+                    February 2024 - August 2024: Nx Cloud team: working on our
+                    cloud solution nx.app
+                  </li>
                 </ul>
               </div>
               <span className="text-sm text-muted-foreground whitespace-nowrap">
@@ -381,7 +387,7 @@ export default function CV() {
             I like to speak at local or international community events and
             conferences, and explain the technologies I use/make through
             examples. I am actively involved with the web community, in Greece
-            and internationally.
+            and internationally. See the &quot;Talks&quot; page.
           </p>
 
           <h3 className="text-lg font-semibold mb-4">
@@ -391,12 +397,12 @@ export default function CV() {
             <div className="border-l-2 border-secondary/20 pl-4">
               <div className="flex justify-between items-start">
                 <div>
-                  <h4 className="font-medium">Streamer - paused</h4>
+                  <h4 className="font-medium">Streamer</h4>
                   <p className="text-muted-foreground">
-                    I stream(ed) every two weeks my work on Nx
+                    I streamed every two weeks my work on Nx
                   </p>
                 </div>
-                <span className="text-sm text-muted-foreground">Ongoing</span>
+                <span className="text-sm text-muted-foreground">Paused</span>
               </div>
             </div>
 
@@ -423,9 +429,6 @@ export default function CV() {
                   <ul className="list-disc list-inside text-muted-foreground mt-2 space-y-1">
                     <li>Women Techmakers Ambassador</li>
                     <li>Part of the Women On Top mentors network</li>
-                    <li>
-                      Organizing monthly women mentoring events with Tracy Lee
-                    </li>
                   </ul>
                 </div>
                 <span className="text-sm text-muted-foreground">Ongoing</span>
