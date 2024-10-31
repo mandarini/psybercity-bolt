@@ -1,5 +1,81 @@
 [
   {
+    "postType": "Public speaking",
+    "link": "https://youtu.be/wNF2OAygzMY",
+    "title": "Make Your Vite Projects Fly with Nx",
+    "description": "Vite is amazing. What's more amazing is Vite with Nx. And what's even more amazing is Vite with Nx Cloud. With Nx Cloud, your Vite projects will literally fly, with shared cache, distributed task execution, smart resource allocation, Nx Agents and our fantastic task Atomizer. A from-build-to-ship process like you've never seen before, Nx will...",
+    "date": "Oct 9, 2024",
+    "impact": {
+      "value": "373 Attendees"
+    },
+    "timestamp": "2024-10-08T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://nx.dev",
+    "title": "Nx and Angular at Angular Enterprise Summit",
+    "description": "Together with Jeff Cross, we presented all the latest updates about Nx and Angular",
+    "date": "Oct 9, 2024",
+    "impact": {
+      "value": "45 Attendees"
+    },
+    "timestamp": "2024-10-08T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshop or mentoring",
+    "link": "https://2024.squiggleconf.com/sessions#workshop-katerina-and-max",
+    "title": "Build Editor Extensions with the Makers of Nx Console",
+    "description": "You will leave this workshop having built and installed a custom VSCode and JetBrains extension! Learn how to enchant your Editor in a (seasonally witch-themed!) deep dive into Editor plugins and what it takes to build one. You will gain hands-on experience with Nx and how you can use it to compose a clean architecture in a complex repo.",
+    "date": "Oct 4, 2024",
+    "impact": {
+      "value": "30 Trained"
+    },
+    "timestamp": "2024-10-03T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://gitnation.com/contents/empowering-nx-with-ai",
+    "title": "Empowering Nx with AI",
+    "description": "In this enlightening session, we'll unveil the pioneering integration of AI and ML within the Nx ecosystem. Discover how our cloud services are enhanced with intelligent algorithms to optimize performance and efficiency. We'll also take a peek into the Nx AI Assistant, our innovative tool designed to streamline navigation and utilization of Nx...",
+    "date": "Jun 17, 2024",
+    "impact": {
+      "value": "300 Attendees"
+    },
+    "timestamp": "2024-06-16T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://youtu.be/l-fclefD6vI?si=rFiP3FCgJ691uRik",
+    "title": "Elevating Your Monorepo: The Nx Transformation",
+    "description": "Scaling your monorepo with Nx. In particular, talking about large Angular applications and how they can benefit from Nx",
+    "date": "Jun 8, 2024",
+    "impact": {
+      "value": "200 Attendees"
+    },
+    "timestamp": "2024-06-07T21:00:00.000Z"
+  },
+  {
+    "postType": "Workshop or mentoring",
+    "link": "https://greece.cityjsconf.org/",
+    "title": "Angular and Nx Workshop at CityJS Athens",
+    "description": "How to scale your Angular applications using Nx",
+    "date": "Jun 7, 2024",
+    "impact": {
+      "value": "25 Trained"
+    },
+    "timestamp": "2024-06-06T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://www.youtube.com/watch?v=0OdddtFle9o",
+    "title": "The State of JavaScript 2024 | SAE Open Talk",
+    "date": "Mar 29, 2024",
+    "impact": {
+      "value": "45 Attendees"
+    },
+    "timestamp": "2024-03-28T22:00:00.000Z"
+  },
+  {
     "postType": "Content-creation",
     "link": "https://blog.nrwl.io/monorepos-why-speed-matters-e74293ae697b",
     "title": "Monorepos — Why Speed Matters",
