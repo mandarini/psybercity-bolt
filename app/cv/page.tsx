@@ -1,9 +1,5 @@
 import {
   Mail,
-  Github,
-  Twitter,
-  Globe,
-  Linkedin,
   Award,
   Briefcase,
   Code,
@@ -12,6 +8,13 @@ import {
   Mic,
   Heart,
 } from "lucide-react";
+import {
+  siGithub,
+  siX,
+  siLinkedin,
+  siMedium,
+  siBluesky,
+} from "simple-icons/icons";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
 
@@ -37,28 +40,56 @@ export default function CV() {
             href="https://github.com/mandarini"
             className="flex items-center gap-2 hover:text-accent"
           >
-            <Github className="h-4 w-4" />
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              className="h-4 w-4 fill-current"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d={siGithub.path} />
+            </svg>
             <span>mandarini</span>
           </Link>
           <Link
             href="https://www.linkedin.com/in/katerinaskroumpelou/"
             className="flex items-center gap-2 hover:text-accent"
           >
-            <Linkedin className="h-4 w-4" />
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              className="h-4 w-4 fill-current"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d={siLinkedin.path} />
+            </svg>
             <span>katerinaskroumpelou</span>
           </Link>
           <Link
             href="https://twitter.com/psybercity"
             className="flex items-center gap-2 hover:text-accent"
           >
-            <Twitter className="h-4 w-4" />
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              className="h-4 w-4 fill-current"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d={siX.path} />
+            </svg>
             <span>@psybercity</span>
           </Link>
           <Link
             href="https://bsky.app/profile/psyber.city"
             className="flex items-center gap-2 hover:text-accent"
           >
-            <span className="h-4 w-4">🦋</span>
+            <svg
+              role="img"
+              viewBox="0 0 24 24"
+              className="h-4 w-4 fill-current"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d={siBluesky.path} />
+            </svg>
             <span>@psyber.city</span>
           </Link>
         </div>

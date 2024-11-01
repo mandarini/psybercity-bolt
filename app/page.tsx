@@ -5,7 +5,7 @@ import RotatingCube from "@/components/RotatingCube";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-[calc(100vh-8rem)] text-center">
+    <div className="flex flex-col items-center justify-center min-h-[calc(100vh-12rem)] text-center">
       <div className="mb-8">
         <RotatingCube />
       </div>
