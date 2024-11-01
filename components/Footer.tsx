@@ -1,5 +1,11 @@
-import { Github, Twitter, Linkedin, BookOpen } from "lucide-react";
 import Link from "next/link";
+import {
+  siGithub,
+  siX,
+  siLinkedin,
+  siMedium,
+  siBluesky,
+} from "simple-icons/icons";
 
 export default function Footer() {
   return (
@@ -15,35 +21,70 @@ export default function Footer() {
               href="https://github.com/mandarini"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
             >
-              <Github className="h-5 w-5" />
+              <svg
+                role="img"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d={siGithub.path} />
+              </svg>
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
               href="https://twitter.com/psybercity"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
             >
-              <Twitter className="h-5 w-5" />
-              <span className="sr-only">Twitter</span>
+              <svg
+                role="img"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d={siX.path} />
+              </svg>
+              <span className="sr-only">X</span>
             </Link>
             <Link
               href="https://linkedin.com/in/katerinaskroumpelou"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
             >
-              <Linkedin className="h-5 w-5" />
+              <svg
+                role="img"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d={siLinkedin.path} />
+              </svg>
               <span className="sr-only">LinkedIn</span>
             </Link>
             <Link
               href="https://pakotinia.medium.com"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
             >
-              <BookOpen className="h-5 w-5" />
+              <svg
+                role="img"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d={siMedium.path} />
+              </svg>
               <span className="sr-only">Medium</span>
             </Link>
             <Link
               href="https://bsky.app/profile/psyber.city"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
             >
-              <span className="text-lg">🦋</span>
+              <svg
+                role="img"
+                viewBox="0 0 24 24"
+                className="h-5 w-5 fill-current"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d={siBluesky.path} />
+              </svg>
               <span className="sr-only">Bluesky</span>
             </Link>
           </div>
