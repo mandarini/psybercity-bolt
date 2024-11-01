@@ -31,7 +31,7 @@ export default function CV() {
             className="flex items-center gap-2 hover:text-accent"
           >
             <Mail className="h-4 w-4" />
-            <span>sk dot katherine at gmail dot com</span>
+            <span>sk dot katherine at gmail</span>
           </Link>
           <Link
             href="https://github.com/mandarini"
@@ -53,6 +53,13 @@ export default function CV() {
           >
             <Twitter className="h-4 w-4" />
             <span>@psybercity</span>
+          </Link>
+          <Link
+            href="https://bsky.app/profile/psyber.city"
+            className="flex items-center gap-2 hover:text-accent"
+          >
+            <span className="h-4 w-4">🦋</span>
+            <span>@psyber.city</span>
           </Link>
         </div>
       </div>
