@@ -10,6 +10,11 @@ import {
   PenTool,
   Youtube,
   MapPin,
+  Presentation,
+  Code2,
+  Globe,
+  Image,
+  Play,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
@@ -33,6 +38,13 @@ type Talk = {
     coords?: number[];
     venue?: string;
     date?: string;
+  };
+  media?: {
+    slides?: string;
+    code?: string[];
+    demo?: string[];
+    photos?: string[];
+    video?: string;
   };
 };
 
@@ -253,6 +265,80 @@ export default function Talks() {
                         {talk.impact.label ? ` ${talk.impact.label}` : ""}
                       </span>
                     </div>
+                    {talk.media && (
+                      <div className="flex flex-wrap gap-2 pt-2">
+                        {talk.media.slides && (
+                          <Link
+                            href={talk.media.slides}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-xs px-2 py-1 rounded-full bg-secondary/10 text-secondary hover:bg-secondary/20 transition-colors"
+                          >
+                            <Presentation className="h-3 w-3" />
+                            Slides
+                          </Link>
+                        )}
+                        {talk.media.code?.map((codeLink, i) => (
+                          <Link
+                            key={i}
+                            href={codeLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-xs px-2 py-1 rounded-full bg-secondary/10 text-secondary hover:bg-secondary/20 transition-colors"
+                          >
+                            <Code2 className="h-3 w-3" />
+                            Code{" "}
+                            {talk.media?.code?.length &&
+                            talk.media?.code?.length > 1
+                              ? i + 1
+                              : ""}
+                          </Link>
+                        ))}
+                        {talk.media.demo?.map((demoLink, i) => (
+                          <Link
+                            key={i}
+                            href={demoLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-xs px-2 py-1 rounded-full bg-accent/10 text-accent hover:bg-accent/20 transition-colors"
+                          >
+                            <Globe className="h-3 w-3" />
+                            Demo{" "}
+                            {talk.media?.code?.length &&
+                            talk.media?.code?.length > 1
+                              ? i + 1
+                              : ""}
+                          </Link>
+                        ))}
+                        {talk.media.video && (
+                          <Link
+                            href={talk.media.video}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-xs px-2 py-1 rounded-full bg-accent/10 text-accent hover:bg-accent/20 transition-colors"
+                          >
+                            <Play className="h-3 w-3" />
+                            Video
+                          </Link>
+                        )}
+                        {talk.media.photos?.map((photoLink, i) => (
+                          <Link
+                            key={i}
+                            href={photoLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-xs px-2 py-1 rounded-full bg-accent/10 text-accent hover:bg-accent/20 transition-colors"
+                          >
+                            <Image className="h-3 w-3" />
+                            Photos{" "}
+                            {talk.media?.photos?.length &&
+                            talk.media?.photos?.length > 1
+                              ? i + 1
+                              : ""}
+                          </Link>
+                        ))}
+                      </div>
+                    )}
                   </CardContent>
                 </Card>
               );
