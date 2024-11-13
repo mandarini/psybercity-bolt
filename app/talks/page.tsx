@@ -15,6 +15,7 @@ import {
   Globe,
   Image,
   Play,
+  CalendarDays,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
@@ -47,6 +48,16 @@ type Talk = {
     video?: string;
   };
 };
+
+const upcomingTalks = [
+  {
+    title: "Revolutionize Your React dev flow with Nx",
+    conf_name: "React Africa",
+    date: "Nov 29, 2024",
+    location: "Casablanca, Morocco",
+    website: "https://react-africa.com/",
+  },
+];
 
 const postTypeIcons: Record<string, any> = {
   "Public Speaking": Mic,
@@ -192,6 +203,47 @@ export default function Talks() {
         </Card>
       </div>
 
+      {upcomingTalks?.length > 0 && (
+        <div className="space-y-4">
+          <h2 className="text-2xl font-semibold flex items-center gap-2">
+            <CalendarDays className="h-5 w-5 text-secondary" />
+            See me at
+          </h2>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {upcomingTalks.map((talk, index) => (
+              <Card key={index} className="bg-secondary/5 border-secondary/10">
+                <CardContent className="pt-6">
+                  <div className="space-y-2">
+                    <div className="flex items-start justify-between">
+                      <Link
+                        href={talk.website}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="group"
+                      >
+                        <h3 className="font-medium text-secondary group-hover:text-accent flex items-center gap-1">
+                          {talk.conf_name}
+                          <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
+                        </h3>
+                      </Link>
+                      <div className="flex items-center text-sm text-muted-foreground">
+                        <Calendar className="h-4 w-4 mr-1" />
+                        {talk.date}
+                      </div>
+                    </div>
+                    <p className="text-sm">{talk.title}</p>
+                    <p className="text-sm text-muted-foreground flex items-center gap-1">
+                      <MapPin className="h-3 w-3" />
+                      {talk.location}
+                    </p>
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        </div>
+      )}
+
       {years.map((year) => (
         <div key={year} className="space-y-6">
           <h2 className="text-2xl font-semibold sticky top-0 bg-background/95 backdrop-blur py-4 z-10">
@@ -304,8 +356,8 @@ export default function Talks() {
                           >
                             <Globe className="h-3 w-3" />
                             Demo{" "}
-                            {talk.media?.code?.length &&
-                            talk.media?.code?.length > 1
+                            {talk.media?.demo?.length &&
+                            talk.media?.demo?.length > 1
                               ? i + 1
                               : ""}
                           </Link>
