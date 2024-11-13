@@ -9,6 +9,7 @@ import {
   BarChart3,
   PenTool,
   Youtube,
+  MapPin,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
@@ -19,6 +20,12 @@ type Talk = {
   link?: string;
   title: string;
   description?: string;
+  date: string;
+  impact: {
+    value: string;
+    label?: string;
+  };
+  timestamp: string;
   conf_name?: string;
   conf_info?: {
     website?: string;
@@ -27,12 +34,6 @@ type Talk = {
     venue?: string;
     date?: string;
   };
-  date: string;
-  impact: {
-    value: string;
-    label?: string;
-  };
-  timestamp: string;
 };
 
 const postTypeIcons: Record<string, any> = {
@@ -222,6 +223,21 @@ export default function Talks() {
                       ) : (
                         <CardTitle className="text-xl">{talk.title}</CardTitle>
                       )}
+                      <div className="flex flex-col gap-1">
+                        {talk.conf_name && (
+                          <p className="text-sm font-medium text-secondary">
+                            {talk.conf_name}
+                          </p>
+                        )}
+                        {talk.conf_info?.location && (
+                          <p className="text-sm text-muted-foreground flex items-center gap-1">
+                            <MapPin className="h-3 w-3" />
+                            {talk.conf_info.location}
+                            {talk.conf_info.venue &&
+                              ` - ${talk.conf_info.venue}`}
+                          </p>
+                        )}
+                      </div>
                     </div>
                   </CardHeader>
                   <CardContent className="space-y-4">

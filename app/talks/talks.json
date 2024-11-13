@@ -2061,7 +2061,7 @@
       "value": "400",
       "label": "People Attended"
     },
-    "timestamp": "2018-03-1T21:00:00.000Z",
+    "timestamp": "2018-03-01T21:00:00.000Z",
     "media": {
       "slides": "https://mandarini.github.io/ngVPresentation",
       "code": ["https://github.com/mandarini/mapp"],
@@ -2093,7 +2093,7 @@
       "value": "700",
       "label": "People Attended"
     },
-    "timestamp": "2017-11-7T21:00:00.000Z",
+    "timestamp": "2017-11-07T21:00:00.000Z",
     "media": {
       "slides": "https://goo.gl/3JoE6B",
       "code": null,
