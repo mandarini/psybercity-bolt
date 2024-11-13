@@ -1,24 +1,32 @@
-import { 
-  Mic, 
-  Video, 
-  Users, 
-  BookOpen, 
+import {
+  Mic,
+  Video,
+  Users,
+  BookOpen,
   Calendar,
   ExternalLink,
   Users2,
   BarChart3,
   PenTool,
-  Youtube
+  Youtube,
 } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
-import talks from './talks.json';
+import talks from "./talks.json";
 
 type Talk = {
   postType: string;
   link?: string;
   title: string;
   description?: string;
+  conf_name?: string;
+  conf_info?: {
+    website?: string;
+    location?: string;
+    coords?: number[];
+    venue?: string;
+    date?: string;
+  };
   date: string;
   impact: {
     value: string;
@@ -28,20 +36,20 @@ type Talk = {
 };
 
 const postTypeIcons: Record<string, any> = {
-  'Public Speaking': Mic,
-  'Public-speaking': Mic,
-  'Video / Podcast': Video,
-  'Youtube-video': Video,
-  'Workshops': Users,
-  'Written Content': BookOpen,
-  'Content-creation': BookOpen,
+  "Public Speaking": Mic,
+  "Public-speaking": Mic,
+  "Video / Podcast": Video,
+  "Youtube-video": Video,
+  Workshops: Users,
+  "Written Content": BookOpen,
+  "Content-creation": BookOpen,
 };
 
 const formatDate = (dateString: string) => {
-  return new Date(dateString).toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
+  return new Date(dateString).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
   });
 };
 
@@ -61,21 +69,30 @@ const calculateStats = (talks: Talk[]) => {
     totalTalks: 0,
     totalAttendees: 0,
     totalContent: 0,
-    totalVideos: 0
+    totalVideos: 0,
   };
 
-  talks.forEach(talk => {
+  talks.forEach((talk) => {
     // Count by type
-    if (talk.postType.toLowerCase().includes('speaking') || talk.postType === 'Workshops') {
+    if (
+      talk.postType.toLowerCase().includes("speaking") ||
+      talk.postType === "Workshops"
+    ) {
       stats.totalTalks++;
-    } else if (talk.postType.toLowerCase().includes('content') || talk.postType === 'Written Content') {
+    } else if (
+      talk.postType.toLowerCase().includes("content") ||
+      talk.postType === "Written Content"
+    ) {
       stats.totalContent++;
-    } else if (talk.postType.toLowerCase().includes('video') || talk.postType === 'Youtube-video') {
+    } else if (
+      talk.postType.toLowerCase().includes("video") ||
+      talk.postType === "Youtube-video"
+    ) {
       stats.totalVideos++;
     }
 
     // Calculate total impact
-    const impactValue = talk.impact.value.replace(/,/g, '');
+    const impactValue = talk.impact.value.replace(/,/g, "");
     const numericValue = parseInt(impactValue);
     if (!isNaN(numericValue)) {
       stats.totalAttendees += numericValue;
@@ -87,7 +104,9 @@ const calculateStats = (talks: Talk[]) => {
 
 export default function Talks() {
   const groupedTalks = groupTalksByYear(talks);
-  const years = Object.keys(groupedTalks).map(Number).sort((a, b) => b - a);
+  const years = Object.keys(groupedTalks)
+    .map(Number)
+    .sort((a, b) => b - a);
   const stats = calculateStats(talks);
 
   return (
@@ -95,7 +114,8 @@ export default function Talks() {
       <div className="space-y-4">
         <h1 className="text-4xl font-bold">Talks & Activities</h1>
         <p className="text-muted-foreground">
-          A collection of my public speaking engagements, workshops, content creation, and other activities.
+          A collection of my public speaking engagements, workshops, content
+          creation, and other activities.
         </p>
       </div>
 
@@ -122,7 +142,9 @@ export default function Talks() {
           </CardHeader>
           <CardContent>
             <div className="flex items-center justify-between">
-              <div className="text-2xl font-bold">{stats.totalAttendees.toLocaleString()}</div>
+              <div className="text-2xl font-bold">
+                {stats.totalAttendees.toLocaleString()}
+              </div>
               <BarChart3 className="h-4 w-4 text-secondary" />
             </div>
           </CardContent>
@@ -157,7 +179,7 @@ export default function Talks() {
         </Card>
       </div>
 
-      {years.map(year => (
+      {years.map((year) => (
         <div key={year} className="space-y-6">
           <h2 className="text-2xl font-semibold sticky top-0 bg-background/95 backdrop-blur py-4 z-10">
             {year}
@@ -165,9 +187,12 @@ export default function Talks() {
           <div className="grid gap-6">
             {groupedTalks[year].map((talk, index) => {
               const Icon = postTypeIcons[talk.postType] || Mic;
-              
+
               return (
-                <Card key={`${talk.title}-${index}`} className="overflow-hidden group">
+                <Card
+                  key={`${talk.title}-${index}`}
+                  className="overflow-hidden group"
+                >
                   <CardHeader className="space-y-1">
                     <div className="flex items-center justify-between">
                       <div className="flex items-center space-x-2">
@@ -183,7 +208,7 @@ export default function Talks() {
                     </div>
                     <div className="space-y-1">
                       {talk.link ? (
-                        <Link 
+                        <Link
                           href={talk.link}
                           target="_blank"
                           rel="noopener noreferrer"
@@ -209,7 +234,7 @@ export default function Talks() {
                       <Users2 className="h-4 w-4 mr-2" />
                       <span>
                         {talk.impact.value}
-                        {talk.impact.label ? ` ${talk.impact.label}` : ''}
+                        {talk.impact.label ? ` ${talk.impact.label}` : ""}
                       </span>
                     </div>
                   </CardContent>

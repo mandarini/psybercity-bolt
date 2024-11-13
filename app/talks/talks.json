@@ -1,18 +1,44 @@
 [
   {
     "postType": "Public speaking",
+    "link": "https://2024.angularday.it/schedule/",
+    "title": "Nxify your Angular app",
+    "description": "Angular is amazing. What's more amazing, is Angular with Nx. And what's even more amazing is Angular with Nx Cloud. With Nx Cloud, your Angular app will literally fly, with shared cache, distributed task execution, smart resource allocation, Nx Agents and our fantastic task Atomizer. A from-build-to-ship process like you've never seen before, Nx will give you a taste of the future. All this, in your favorite Angular project.",
+    "date": "Nov 8, 2024",
+    "conf_name":"Angular Day 2024",
+    "impact": {
+      "value": "200 Attendees"
+    },
+    "timestamp": "2024-11-08T21:00:00.000Z"
+  },
+  {
+    "postType": "Video / Podcast",
+    "link": "https://maintainable.fm/episodes/katerina-skroumpelou",
+    "title": "Bridging Engineering and Advocacy for Scalable Software",
+    "description": "As a product advocate at Nx, Katerina Skroumpelou combines her engineering skills with a knack for connecting with clients. In this episode, she shares how clear documentation, scalable architectures, and a collaborative culture can transform software development for the better.",
+    "conf_name":"Maintainable podcast",
+    "date": "Nov 5, 2024",
+    "impact": {
+      "value": "100 Listeners"
+    },
+    "timestamp": "2024-11-05T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
     "link": "https://youtu.be/wNF2OAygzMY",
     "title": "Make Your Vite Projects Fly with Nx",
     "description": "Vite is amazing. What's more amazing is Vite with Nx. And what's even more amazing is Vite with Nx Cloud. With Nx Cloud, your Vite projects will literally fly, with shared cache, distributed task execution, smart resource allocation, Nx Agents and our fantastic task Atomizer. A from-build-to-ship process like you've never seen before, Nx will...",
-    "date": "Oct 9, 2024",
+    "conf_name":"Vite Conf 2024",
+    "date": "Oct 3, 2024",
     "impact": {
       "value": "373 Attendees"
     },
-    "timestamp": "2024-10-08T21:00:00.000Z"
+    "timestamp": "2024-10-03T21:00:00.000Z"
   },
   {
     "postType": "Public speaking",
     "link": "https://nx.dev",
+    "conf_name":"Angular Enterprise Summit",
     "title": "Nx and Angular at Angular Enterprise Summit",
     "description": "Together with Jeff Cross, we presented all the latest updates about Nx and Angular",
     "date": "Oct 9, 2024",
@@ -24,6 +50,7 @@
   {
     "postType": "Workshop or mentoring",
     "link": "https://2024.squiggleconf.com/sessions#workshop-katerina-and-max",
+    "conf_name":"Squiggle Conf 2024",
     "title": "Build Editor Extensions with the Makers of Nx Console",
     "description": "You will leave this workshop having built and installed a custom VSCode and JetBrains extension! Learn how to enchant your Editor in a (seasonally witch-themed!) deep dive into Editor plugins and what it takes to build one. You will gain hands-on experience with Nx and how you can use it to compose a clean architecture in a complex repo.",
     "date": "Oct 4, 2024",
@@ -36,6 +63,7 @@
     "postType": "Public speaking",
     "link": "https://gitnation.com/contents/empowering-nx-with-ai",
     "title": "Empowering Nx with AI",
+    "conf_name":"React Summit AMS 2024",
     "description": "In this enlightening session, we'll unveil the pioneering integration of AI and ML within the Nx ecosystem. Discover how our cloud services are enhanced with intelligent algorithms to optimize performance and efficiency. We'll also take a peek into the Nx AI Assistant, our innovative tool designed to streamline navigation and utilization of Nx...",
     "date": "Jun 17, 2024",
     "impact": {
@@ -45,7 +73,8 @@
   },
   {
     "postType": "Public speaking",
-    "link": "https://youtu.be/l-fclefD6vI?si=rFiP3FCgJ691uRik",
+    "link": "https://www.youtube.com/watch?v=l-fclefD6vI",
+    "conf_name":"CityJS Athens 2024",
     "title": "Elevating Your Monorepo: The Nx Transformation",
     "description": "Scaling your monorepo with Nx. In particular, talking about large Angular applications and how they can benefit from Nx",
     "date": "Jun 8, 2024",
@@ -58,6 +87,7 @@
     "postType": "Workshop or mentoring",
     "link": "https://greece.cityjsconf.org/",
     "title": "Angular and Nx Workshop at CityJS Athens",
+    "conf_name":"CityJS Athens 2024",
     "description": "How to scale your Angular applications using Nx",
     "date": "Jun 7, 2024",
     "impact": {
@@ -68,6 +98,7 @@
   {
     "postType": "Public speaking",
     "link": "https://www.youtube.com/watch?v=0OdddtFle9o",
+    "conf_name":"SAE Open Talk",
     "title": "The State of JavaScript 2024 | SAE Open Talk",
     "date": "Mar 29, 2024",
     "impact": {
@@ -90,6 +121,7 @@
     "postType": "Public-speaking",
     "link": "https://github.com/mandarini/ai-ng-docs",
     "title": "Enhance Your Docs UX with AI: A Hands-On Workshop for Angular",
+    "conf_name":"ng-conf 2024",
     "description": "1-hour workshop designed to elevate your documentation through the power of Generative AI. Drawing upon real-world results from Nx's recently launched AI Assistant, this session offers a unique blend of theory and practice to give you actionable insights into improving your Angular docs.",
     "date": "20 March 2024",
     "impact": {
@@ -100,6 +132,7 @@
   {
     "postType": "Public-speaking",
     "link": "https://www.ng-ind.com/#agenda",
+    "conf_name":"ngIndia 2024",
     "title": "Scale your Angular apps with Nx",
     "description": "In this talk, we'll explore how Nx can transform your Angular development, making it more efficient and scalable. We'll discuss how you can grow your project from a small setup to a large monorepo using Nx. You'll learn how to organize your workspace into libraries and set rules for better teamwork, whether you're working on a single project or a...",
     "date": "9 February 2024",
@@ -111,6 +144,7 @@
   {
     "postType": "Youtube-video",
     "link": "https://www.youtube.com/watch?v=uHwUxFYX2DY",
+    "conf_name":"Nx Live Stream",
     "title": "@nx/nuxt Live!! With Nuxt maintainer Daniel Roe!!",
     "date": "7 February 2024",
     "impact": {
@@ -122,6 +156,7 @@
     "postType": "Public-speaking",
     "link": "https://www.youtube.com/watch?v=OXXTUjSO1hs",
     "title": "Nx Live Stream - Updates for new version",
+    "conf_name":"Nx Live Stream",
     "description": "Updating about the new version of Nx, all the new Angular features",
     "date": "10 January 2024",
     "impact": {
@@ -132,6 +167,7 @@
   {
     "postType": "Public-speaking",
     "link": "https://www.meetup.com/angular-athens/events/297342102/",
+    "conf_name":"Angular Athens",
     "title": "Transforming Angular Development with Nx: Efficiency, Scalability, and Beyond",
     "description": "Making the most out of your Angular application, how to scale and how to extend, using Nx.",
     "date": "28 November 2023",
@@ -166,6 +202,7 @@
     "postType": "Video / Podcast",
     "link": "https://open.spotify.com/episode/7a7cAO2UsJ2zaxTEDDg3UI",
     "title": "The Story about Storybook at Angular Plus show",
+    "conf_name":"Angular Plus show",
     "description": "Angular + Storybook and how to build better UIs",
     "date": "22 November 2023",
     "impact": {
@@ -190,6 +227,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/vuejsathens/events/297384418/",
     "title": "Nxify your Vue and Nuxt Projects",
+    "conf_name":"VueJS Athens meetup",
     "description": "Using Vue and Nuxt more efficiently",
     "date": "21 November 2023",
     "impact": {
@@ -216,6 +254,7 @@
     "link": "https://www.youtube.com/watch?v=dpncw1S1GdI",
     "title": "Nx 17 Release",
     "description": "Talking about Vue.",
+    "conf_name":"Nx Live Show",
     "date": "26 October 2023",
     "impact": {
       "value": "1,300",
@@ -227,6 +266,7 @@
     "postType": "Public Speaking",
     "link": "https://www.youtube.com/watch?v=HfarG4wswK4",
     "title": "Streamline Your Vite dev-flow with Nx",
+    "conf_name":"Vite Conf 2023",
     "description": "Explore the integration of Nx and Vite in modern web development. This talk sheds light on how Nx’s extensible and powerful tools complement Vite's swift builds, offering an enhanced and efficient development experience. Dive in to learn about the features, benefits, and practical applications of the Nx Vite plugin. Also, cat pictures will enhance your viewing experience.",
     "date": "4 October 2023",
     "impact": {
@@ -239,6 +279,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/angularnyc/events/296188739/",
     "title": "Enhancing Docs UX with AI",
+    "conf_name":"Angular NYC meetup",
     "description": "In this talk, we'll explore how integrating AI into your documentation site can amplify the user search experience and offer insights for documentation improvement. Understand the synergy between human-curated content and AI-assistance. Learn how AI can provide real-time search assistance, guide users efficiently, and offer valuable feedback to continuously refine and enhance your documentation based on user interactions. Dive into the next level of interactive documentation!",
     "date": "28 September 2023",
     "impact": {
@@ -250,6 +291,7 @@
   {
     "postType": "Video / Podcast",
     "link": "https://webrush.io/episodes/episode-253-ai-with-katerina-skroumpelou",
+    "conf_name":"WebRush Podcast",
     "title": "AI with Katerina Skroumpelou",
     "description": "Katerina Skroumpelou join us to talk about her work on implementing AI and chatGPT inside documentation, how well it has worked, and some of the things to consider when using AI for docs.",
     "date": "28 September 2023",
@@ -263,6 +305,7 @@
     "postType": "Public Speaking",
     "link": "https://www.youtube.com/watch?v=SWlvsDNXCsQ",
     "title": "Setting up Storybook interaction tests with Nx",
+    "conf_name":"Nx Conf 2023",
     "description": "Setting up Storybook interaction tests with Nx",
     "date": "26 September 2023",
     "impact": {
@@ -275,6 +318,7 @@
     "postType": "Video / Podcast",
     "link": "https://www.youtube.com/live/wj-gb6jqyzA?si=IxxKvDPlebyIF4S4",
     "title": "Nx Live Show for v16.8 release",
+    "conf_name":"Nx Live Show",
     "description": "All the latest about the latest release. Will be talking about Vite and Storybook and Vue.",
     "date": "6 September 2023",
     "impact": {
@@ -287,6 +331,7 @@
     "postType": "Video / Podcast",
     "link": "https://webrush.io/episodes/episode-247-ecosystem-ci-katerina-skroumpeloution",
     "title": "Ecosystem CI Katerina Skroumpeloution",
+    "conf_name":"WebRush Podcast",
     "description": "Katerina Skroumpeloution introduces the idea of using an ecosystem CI tool to help diagnose and understand errors, and communicating them to your team.",
     "date": "17 August 2023",
     "impact": {
@@ -323,6 +368,7 @@
     "postType": "Public Speaking",
     "link": "https://greece.cityjsconf.org/",
     "title": "City JS Conference organizing",
+    "conf_name":"CityJS Athens 2023",
     "description": "Part of the organizing team of City JS conference in Athens, I connected and mentored with fellow attendees.",
     "date": "31 May 2023",
     "impact": {
@@ -335,6 +381,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/angular-athens/events/293446854/",
     "title": "CityJS Conf pre-event: Meetup Community evening on the terrace",
+    "conf_name":"CityJS Athens 2023",
     "description": "Organizing a community event pre-conf, where I introduced the speakers, and talked about the latest highlights in the JavaScript and web ecosystem",
     "date": "29 May 2023",
     "impact": {
@@ -347,6 +394,7 @@
     "postType": "Video / Podcast",
     "link": "https://www.youtube.com/live/9_chJoS-DRw?si=sT3EvvC4do3I0Gg2",
     "title": "Nx Live Coding with Storybook",
+    "conf_name":"Nx Live Show",
     "description": "Live coding demo during Nx show and speaking about storybook",
     "date": "24 May 2023",
     "impact": {
@@ -359,6 +407,7 @@
     "postType": "Public Speaking",
     "link": "https://www.youtube.com/watch?v=2JjctvJdUS4",
     "title": "Storybook 7 in monorepos with Nx",
+    "conf_name":"Storybook Day 2023",
     "description": "Monorepos enable you to store multiple packages, such as your app and design system, in a single repository. This makes it easier to work on them simultaneously. Katerina will demonstrate how to use Storybook in monorepos managed with Nx. You'll learn about the Nx-Storybook plugin, which can quickly configure Storybook within a package.",
     "date": "23 May 2023",
     "impact": {
@@ -371,6 +420,7 @@
     "postType": "Video / Podcast",
     "link": "https://www.youtube.com/watch?v=9_chJoS-DRw",
     "title": "Nx Show - Monorepos, Storybook, Live Coding",
+    "conf_name":"Nx Live Show",
     "description": "Storybook 7, all the newest features in testing your apps and components, dev tools, interaction testing",
     "date": "15 March 2023",
     "impact": {
@@ -383,6 +433,7 @@
     "postType": "Public Speaking",
     "link": "https://youtu.be/P0hJm5v8TJw?t=5803",
     "title": "Managing Storybook on monorepos",
+    "conf_name":"Storybook Day 2023",
     "description": "Managing Storybook on monorepos using modern web technologies",
     "date": "14 March 2023",
     "impact": {
@@ -406,6 +457,7 @@
     "postType": "Public Speaking",
     "link": "https://gdg.community.dev/events/details/google-gdg-cyprus-presents-devfest-hellas-2022/",
     "title": "Making your app fly with Google Maps",
+    "conf_name":"DevFest Hellas 2022",
     "description": "The Google Maps Platform has made leaps of progress over the past few years, and the capabilities it offers go beyond whatever we are used to seeing on the web. With the power of WebGL, your apps and your maps sure do fly. In this presentation, we are going to see some of the cool things that Google Maps offers to the web platform, and how you can really transform your apps using these new powers. Participants will leave wanting to get their hands on the new APIs, and make their apps shine asap.",
     "date": "26 November 2022",
     "impact": {
@@ -418,6 +470,7 @@
     "postType": "Workshops",
     "link": "https://nx.dev/conf#workshop",
     "title": "Nx Workshop",
+    "conf_name":"Nx Conf 2022",
     "description": "I was helping the main hosts of the workshop.\n\nTeaches participants how to use Nx to scale their apps and speed up their development process",
     "date": "17 October 2022",
     "impact": {
@@ -430,6 +483,7 @@
     "postType": "Video / Podcast",
     "link": "https://webrush.io/episodes/episode-204-wolves-cats-and-dogsand-the-google-cloud-platform",
     "title": "Web Rush Episode 204",
+    "conf_name":"WebRush Podcast",
     "description": "Wolves, Cats, and Dogs...and The Google Cloud Platform\n\nTalking about the Google Cloud Platform on WebRush Podcast",
     "date": "6 October 2022",
     "impact": {
@@ -454,6 +508,7 @@
     "postType": "Video / Podcast",
     "link": "https://open.spotify.com/episode/0ip5o6ThVqdd3CcpQM68rl",
     "title": "DevLife Podcast S03E03",
+    "conf_name":"DevLife Podcast",
     "description": "Giving Mental Health a Piece of Your Mind\n\nIn this episode of the Dev.Life we invited Katerina Skroumpelou back on the show to discuss a recent blog article she published about dealing with mental health and depression as a developer or tech professional. Katerina shares her experiences for how she’s coped with these challenges in her own life and how she’s been able to push through it all to make a successful career filled with many great accomplishments",
     "date": "26 September 2022",
     "impact": {
@@ -502,6 +557,7 @@
     "postType": "Video / Podcast",
     "link": "https://www.johnpapa.net/nx-and-lerna-with-katerina-skroumpelou-on-web-rush-192/",
     "title": "WebRush Podcast: Nx and Lerna",
+    "conf_name":"WebRush Podcast",
     "description": "Katerina Skroumpelou talks with us about how Nx and Lerna are integrated now that Nrwl has taken over stewardship of Lerna, where to begin learning about Nx and Lerna, and the integration options.",
     "date": "14 July 2022",
     "impact": {
@@ -523,33 +579,10 @@
     "timestamp": "2022-07-06T21:00:00.000Z"
   },
   {
-    "postType": "Workshops",
-    "link": "https://ti.to/nrwl/nx-workshop-7-2022",
-    "title": "Develop at Scale with Nx",
-    "description": "Develop at scale with Nx, Angular and monorepos",
-    "date": "7 July 2022",
-    "impact": {
-      "value": "25",
-      "label": "People Trained"
-    },
-    "timestamp": "2022-07-06T21:00:00.000Z"
-  },
-  {
-    "postType": "Public Speaking",
-    "link": "https://twitter.com/SantoshYadavDev/status/1542545245522608128",
-    "title": " Twitter Space - Nx & monorepos in the Angular ecosystem",
-    "description": "Twitter Space - General q&A panel about monorepos in the Angular ecosystem with other members of the Angular and the Nx community",
-    "date": "30 June 2022",
-    "impact": {
-      "value": "50",
-      "label": "People Attended"
-    },
-    "timestamp": "2022-06-29T21:00:00.000Z"
-  },
-  {
     "postType": "Public Speaking",
     "link": "https://twitter.com/SantoshYadavDev/status/1542545245522608128",
     "title": "Twitter Space - Nx & monorepos in the Angular ecosystem",
+    "conf_name":"Twitter Space",
     "description": "Twitter Space - General q&A panel about monorepos in the Angular ecosystem with other members of the Angular and the Nx community",
     "date": "30 June 2022",
     "impact": {
@@ -563,6 +596,7 @@
     "link": "https://www.youtube.com/watch?v=-kfMrYwb7WM",
     "title": "Supercharge your monorepo with Nx",
     "description": "Storybook and Nx and monorepo development",
+    "conf_name":"Chromatic Show",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/59de30db-1fa7-4b88-a35d-952f4390ee42.png",
     "date": "15 June 2022",
     "impact": {
@@ -575,6 +609,7 @@
     "postType": "Public Speaking",
     "link": "https://greece.cityjsconf.org/",
     "title": "General MC'ing and organizing CityJS Conference in Athens, Greece",
+    "conf_name":"CityJS Athens 2022",
     "description": "General MC'ing and organizing CityJS Conference in Athens, Greece",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/664104e4-7e48-4e00-a702-2166b9826de0.jpeg",
     "date": "27 May 2022",
@@ -588,6 +623,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/Angular-Athens/events/285521301/",
     "title": "Scaling your Angular App with Nx",
+    "conf_name":"CityJS Athens 2022",
     "description": "Scaling your Angular application using Nx and other modern technologies (eg. Storybook, Cypress, etc)",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/07/29/4cc0d432-1bec-4983-89b0-1ce1b8ed96b2.jpeg",
     "date": "25 May 2022",
@@ -601,6 +637,7 @@
     "postType": "Video / Podcast",
     "link": "https://dev.to/ngxp/s2e14-katarina-skroumpelou-on-workplace-conflict",
     "title": "Angular Experience S2E14",
+    "conf_name":"Angular Experience Podcast",
     "description": "Workspace Conflict ",
     "date": "2 May 2022",
     "impact": {
@@ -612,6 +649,7 @@
   {
     "postType": "Video / Podcast",
     "link": "https://www.twitch.tv/pako_tini",
+    "conf_name":"kat-stuff",
     "title": "kat-stuff",
     "description": "Live coding and answering questions about Angular, Nx, Web technologies, open source",
     "date": "29 March 2022",
@@ -624,6 +662,7 @@
   {
     "postType": "Workshops",
     "link": "https://women-in-tech.thisdotmedia.com/#/",
+    "conf_name":"Monthly Mentoring",
     "title": "Monthly Mentoring - Women in Tech - This Dot",
     "description": "Mentoring women in tech - a live session on Zoom where women can join and as the hosts we mentor them, answer questions about career, technologies, issues at work.\n\nThis happens every month",
     "date": "16 March 2022",
@@ -636,6 +675,7 @@
   {
     "postType": "Video / Podcast",
     "link": "https://www.twitch.tv/pako_tini",
+    "conf_name":"kat-stuff",
     "title": "kat-stuff",
     "description": "Live coding and answering questions about Angular, Nx, web technologies, open source contribution",
     "date": "15 March 2022",
@@ -648,6 +688,7 @@
   {
     "postType": "Public Speaking",
     "link": "https://youtu.be/enqzuIigW8M",
+    "conf_name":"STATE OF THE WEB IWD",
     "title": "STATE OF THE WEB International Women's Day Panel",
     "description": "Panel about the state of the web",
     "date": "8 March 2022",
@@ -660,6 +701,7 @@
   {
     "postType": "Video / Podcast",
     "link": "https://open.spotify.com/episode/7AuGlj8hm3F8yIkKwE3VHG",
+    "conf_name":"Angular Experience Show",
     "title": "Angular Experience s2e06 ",
     "description": "In this episode of NgXP, get ready for a new inspiring People of Angular episode with Google Maps and Web Technologies GDE, Katerina Skroumpelou. Katerina shares her strong example of how to boldly develop new skills and achieve greater heights throughout your career, including how to expand your network and find the opportunities that keep you increasingly passionate",
     "date": "7 March 2022",
@@ -673,6 +715,7 @@
     "postType": "Video / Podcast",
     "link": "https://www.spreaker.com/user/14532324/s2e06-developers-odyssey-with-katerina-s",
     "title": "NgXp Show - S2E06 | Developer's Odyssey with Katerina Skroumpelou",
+    "conf_name":"Angular Experience Show",
     "description": "Angular Experience Show - appeared as guest",
     "date": "6 March 2022",
     "impact": {
@@ -695,6 +738,7 @@
   {
     "postType": "Public Speaking",
     "link": "https://www.open-conf.gr/content/",
+    "conf_name":"Open Conf 2021",
     "title": "Visualizing spatial data with the Google Maps platform",
     "description": "We'll explore all the different features that the Google Maps platform offers for spatial data visualization.\n\n",
     "date": "15 December 2021",
@@ -707,6 +751,7 @@
   {
     "postType": "Public Speaking",
     "link": "https://ng-be.org/",
+    "conf_name":"ng-be 2021",
     "title": "Storybook your Angular app with Nx",
     "description": "Adding Storybook to your Angular app",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/06/fa757749-6958-48f5-9a37-e3a35c775a03.jpg",
@@ -720,6 +765,7 @@
   {
     "postType": "Workshops",
     "link": "https://ng-be.org/",
+    "conf_name":"ng-be 2021",
     "title": "Nx + Angular workshop",
     "description": "Using Nx to build scalable Angular applications",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/06/a2602a53-3973-4b68-97ee-f5e8d6affb77.jpg",
@@ -733,6 +779,7 @@
   {
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/angularcommunity/events/rmjgjsyccpbvb/",
+    "conf_name":"Angular Community Meetup",
     "title": "Angular CLI + Nx",
     "description": "Angular CLI + Nx - speaking at the Angular Community Meetup",
     "date": "16 November 2021",
@@ -746,6 +793,7 @@
     "postType": "Public Speaking",
     "link": "https://www.angular-up.com/events/build-a-design-system-with-angular-nx-storybook/",
     "title": "Build a design system with Storybook + Angular + Nx",
+    "conf_name":"Angular Up 2021",
     "description": "Building a design system using Storybook and Angular",
     "date": "8 November 2021",
     "impact": {
@@ -768,7 +816,7 @@
   {
     "postType": "Workshops",
     "link": "https://events.withgoogle.com/women-developer-academy-europe/",
-    "title": " Women Developer Academy",
+    "title": "Women Developer Academy",
     "description": "Mentoring women for the WDA ogranized by the WTM",
     "date": "26 October 2021",
     "impact": {
@@ -793,6 +841,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/js-monthly/events/280470053/",
     "title": "Storybook you App",
+    "conf_name":"JS Monthly",
     "description": "Using Storybook to build and test your UIs, your CSS and your interactive elements",
     "date": "9 September 2021",
     "impact": {
@@ -828,6 +877,7 @@
   {
     "postType": "Public Speaking",
     "link": "https://geekle.us/angular",
+    "conf_name":"Angular Global Summit",
     "title": "Storybook your Angular app with Nx",
     "description": "Using storybook in your Angular app",
     "date": "2 June 2021",
@@ -840,6 +890,7 @@
   {
     "postType": "Video / Podcast",
     "link": "https://webrush.io/",
+    "conf_name":"WebRush Podcast",
     "title": "WebRush Podcast - Episode 138",
     "description": "Google Maps Platform! The first time ever that Google Maps is on John Papa's podcast!\n\n(will update link once it goes live)",
     "date": "21 May 2021",
@@ -853,6 +904,7 @@
     "postType": "Public Speaking",
     "link": "https://youtu.be/YRBkmjsLFEs?t=366",
     "title": "Nx for Angular CLI users",
+    "conf_name":"Angular Kharkiv Meetup",
     "description": "Nx + Angular CLI",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/12/86c1f84c-3b16-4f83-8256-4cf566cfa915.png",
     "date": "29 April 2021",
@@ -866,6 +918,7 @@
     "postType": "Public Speaking",
     "link": "https://youtu.be/PMADN2ggDL8?t=4141",
     "title": "Storybook your app with Nx",
+    "conf_name":"The Monthly Dev",
     "description": "Adding Storybook to Angular apps with Nx",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/12/3db2bc48-e7ab-4b85-865b-298080e91540.png",
     "date": "23 March 2021",
@@ -879,6 +932,7 @@
     "postType": "Public Speaking",
     "link": "https://angular-up.com/",
     "title": "Nx for Angular CLI Users",
+    "conf_name":"Angular Up 2020",
     "description": "By now, you’ve probably heard of Nx from Nrwl. You might know that it’s a toolkit based on top of Angular CLI, and it’s great for developing monorepos. But there’s so much more to Nx than just monorepos! In this talk, Jeff Cross and Katerina Skroumpelou will talk about everything Nx does to help you develop any Angular application better and faster.",
     "date": "3 December 2020",
     "impact": {
@@ -891,6 +945,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/Dutch-Angular-group/events/273791022/",
     "title": "Scalable apps with Nx",
+    "conf_name":"Dutch Angular Group",
     "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
     "date": "26 November 2020",
     "impact": {
@@ -903,6 +958,7 @@
     "postType": "Public Speaking",
     "link": "https://www.ng-conf.org/",
     "title": "Nx for Angular CLI Users",
+    "conf_name":"ng-conf 2020",
     "description": "By now, you’ve probably heard of Nx from Nrwl. You might know that it’s a toolkit based on top of Angular CLI, and it’s great for developing monorepos. But there’s so much more to Nx than just monorepos! In this talk, Jeff Cross and Katerina Skroumpelou will talk about everything Nx does to help you develop any Angular application better and faster.",
     "date": "19 November 2020",
     "impact": {
@@ -915,6 +971,7 @@
     "postType": "Public Speaking",
     "link": "https://www.ucl.ac.uk/bartlett/casa/events/2020/nov/katerina-skroumpelou-you-can-do-google-maps",
     "title": "You can do that with Google Maps",
+    "conf_name":"UCL CASA",
     "description": "In this session, we will explore the capabilities of the Google Maps Platform and the Google Maps JS API. We will see how we can use the API to not only create simple maps with markers, but also how to visualise our spatial data. Then, we will see how we can extract information from the map, like elevation, distance, or directions information. All that, simply and effectively!",
     "date": "4 November 2020",
     "impact": {
@@ -927,6 +984,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/Angular-IL/events/273097889/",
     "title": "Scale your app with Nx",
+    "conf_name":"Angular IL",
     "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
     "date": "21 October 2020",
     "impact": {
@@ -939,6 +997,7 @@
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/WarsawJS/events/267830178/",
     "title": "Scale your app with Nx!",
+    "conf_name":"WarsawJS",
     "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development!",
     "date": "14 October 2020",
     "impact": {
@@ -951,6 +1010,7 @@
     "postType": "Public Speaking",
     "link": "https://bit.ly/devfest-kat-nx",
     "title": "Scalable apps with Nx!",
+    "conf_name":"DevFest Hellas 2020",
     "description": "Nx is a set of extensible dev tools for monorepos, which helps you scale your app and coordinate better with your team. With Nx, your team (or teams) will work on a monorepo, which will manage multiple frontend and backend applications, all in the same workspace. Nx offers a CLI which will also help you manage your build process, your tests, and is so smart that it will analyse your codebase and only build or test code that has not been tested or built before.\nIn this presentation, we will answer questions like \"what is a monorepo\", \"how can Nx improve the developer experience\" (whether of an individual or of a team), \"what tools does Nx offer\". At the risk of sounding cheesy, welcome to the future of integrated app development! ",
     "image": "https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/10/03/4a497b0d6a473d16b6ab.png",
     "date": "3 October 2020",
