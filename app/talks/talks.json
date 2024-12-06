@@ -1,15 +1,44 @@
 [
   {
     "postType": "Public speaking",
-    "link": "https://2024.angularday.it/schedule/",
+    "title": "Revolutionize Your React dev flow with Nx",
+    "link": "https://react-africa.com/",
+    "description": "Nx is the one tool you need for your React projects, offering a comprehensive suite of features that enhance DX and streamline workflows. With Nx, you can effortlessly generate code, manage dependencies, and integrate seamlessly with key tools in the React ecosystem, including Vite, Jest, Vitest, Playwright, Next.js, and, of course, Remix. Nx's powerful capabilities make scaling your applications a breeze, ensuring that as your codebase grows, your development speed and efficiency remain unaffected. Moreover, Nx optimizes your CI pipelines with features like parallel task execution, caching, and incremental builds, significantly reducing build times and providing faster feedback loops. This session will explore how Nx can transform your React development experience, enabling you to boost productivity, maintain high code quality, and scale your projects with confidence.",
+    "date": "Nov 29, 2024",
+    "timestamp": "2024-11-29T12:00:00.000Z",
+    "conf_name": "React Africa",
+    "impact": {
+      "value": "200 Attendees"
+    },
+    "conf_info": {
+      "website": "https://react-africa.com/",
+      "location": "Casablanca, Morocco"
+    },
+    "media": {
+      "slides": "https://react-nx.netlify.app/",
+      "code": ["https://github.com/mandarini/react-nx-africa-demo"],
+      "video": "https://www.youtube.com/live/ytfjUmC_eM0?si=xmn2JuYi0uzX9cI-&t=1587"
+    }
+  },
+  {
+    "postType": "Public speaking",
     "title": "Nxify your Angular app",
+    "link": "https://2024.angularday.it/schedule/",
     "description": "Angular is amazing. What's more amazing, is Angular with Nx. And what's even more amazing is Angular with Nx Cloud. With Nx Cloud, your Angular app will literally fly, with shared cache, distributed task execution, smart resource allocation, Nx Agents and our fantastic task Atomizer. A from-build-to-ship process like you've never seen before, Nx will give you a taste of the future. All this, in your favorite Angular project.",
     "date": "Nov 8, 2024",
     "conf_name": "Angular Day 2024",
     "impact": {
       "value": "200 Attendees"
     },
-    "timestamp": "2024-11-08T21:00:00.000Z"
+    "conf_info": {
+      "website": "https://2024.angularday.it/schedule/",
+      "location": "Verona, Italy"
+    },
+    "media": {
+      "slides": "https://ngday24-nx.netlify.app",
+      "code": ["https://github.com/mandarini/demo-ng-day-24"]
+    },
+    "timestamp": "2024-11-08T12:00:00.000Z"
   },
   {
     "postType": "Video / Podcast",

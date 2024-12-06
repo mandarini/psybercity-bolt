@@ -21,7 +21,7 @@ export default function Random() {
           </CardHeader>
           <CardContent>
             <p className="text-muted-foreground">
-              I've climbed Mount Olympus 3 times!
+              I&apos;ve climbed Mount Olympus 3 times!
             </p>
           </CardContent>
         </Card>
@@ -31,7 +31,7 @@ export default function Random() {
           </CardHeader>
           <CardContent>
             <p className="text-muted-foreground">
-              Cryptonomicon (for the 2nd time).
+              Seveneves
             </p>
           </CardContent>
         </Card>

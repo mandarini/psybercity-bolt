@@ -49,15 +49,7 @@ type Talk = {
   };
 };
 
-const upcomingTalks = [
-  {
-    title: "Revolutionize Your React dev flow with Nx",
-    conf_name: "React Africa",
-    date: "Nov 29, 2024",
-    location: "Casablanca, Morocco",
-    website: "https://react-africa.com/",
-  },
-];
+const upcomingTalks: any[] = [];
 
 const postTypeIcons: Record<string, any> = {
   "Public Speaking": Mic,
