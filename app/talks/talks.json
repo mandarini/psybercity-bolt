@@ -1,6 +1,20 @@
 [
   {
     "postType": "Public speaking",
+    "title": "All about Product Advocacy & Latest on Nx & Nx Cloud",
+    "description": "Discussion about Product Advocacy, and short demo & presentation about the latest of Nx and Nx Cloud.",
+    "date": "Jan 29, 2025",
+    "timestamp": "2025-01-29T12:00:00.000Z",
+    "conf_name": "Code on Slopes",
+    "impact": {
+      "value": "18 Attendees"
+    },
+    "conf_info": {
+      "location": "Chamonix, France"
+    }
+  },
+  {
+    "postType": "Public speaking",
     "title": "Revolutionize Your React dev flow with Nx",
     "link": "https://react-africa.com/",
     "description": "Nx is the one tool you need for your React projects, offering a comprehensive suite of features that enhance DX and streamline workflows. With Nx, you can effortlessly generate code, manage dependencies, and integrate seamlessly with key tools in the React ecosystem, including Vite, Jest, Vitest, Playwright, Next.js, and, of course, Remix. Nx's powerful capabilities make scaling your applications a breeze, ensuring that as your codebase grows, your development speed and efficiency remain unaffected. Moreover, Nx optimizes your CI pipelines with features like parallel task execution, caching, and incremental builds, significantly reducing build times and providing faster feedback loops. This session will explore how Nx can transform your React development experience, enabling you to boost productivity, maintain high code quality, and scale your projects with confidence.",

@@ -49,7 +49,24 @@ type Talk = {
   };
 };
 
-const upcomingTalks: any[] = [];
+type UpcomingTalk = {
+  website: string;
+  conf_name: string;
+  date: string;
+  title: string;
+  location: string;
+};
+
+const upcomingTalks: UpcomingTalk[] = [
+  {
+    website: "https://www.meetup.com/greecejs/events/305796829/",
+    conf_name: "GreeceJs",
+    date: "February 5, 2025",
+    title:
+      "Scaling, CI, slow pipelines, maintenance - I have the solution for your pain",
+    location: "Athens, Greece",
+  },
+];
 
 const postTypeIcons: Record<string, any> = {
   "Public Speaking": Mic,
