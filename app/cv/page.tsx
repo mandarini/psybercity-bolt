@@ -126,6 +126,8 @@ export default function CV() {
               "DX",
               "TypeScript",
               "JavaScript",
+              "Building communities",
+              "Communicating knowledge",
             ].map((skill) => (
               <span
                 key={skill}
@@ -161,7 +163,7 @@ export default function CV() {
                 </h3>
                 <p className="text-secondary">Product Advocate</p>
                 <p className="text-muted-foreground mt-2">
-                  Helping customers succeed.
+                  Helping customers succeed with Nx. Shaping the PA role for Nx.
                 </p>
               </div>
               <span className="text-sm text-muted-foreground whitespace-nowrap">
