@@ -22,6 +22,7 @@ TITLE:${contactInfo.title}
 EMAIL:${contactInfo.email}
 EMAIL;TYPE=WORK:${contactInfo.workEmail}
 ADR;TYPE=WORK:;;${contactInfo.location}
+ORG:Nx.dev
 END:VCARD`;
 
   return (
