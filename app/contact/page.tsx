@@ -9,9 +9,9 @@ export default function ContactPage() {
   const contactInfo = {
     name: "Katerina Skroumpelou",
     email: "sk.katherine@gmail.com",
-    phone: "", // Add your phone if you want to share it
+    workEmail: "katerina@nrwl.io",
     location: "Athens, Greece",
-    title: "Product Advocate - Google Developer Expert",
+    title: "Product Advocate - Senior Engineer",
   };
 
   // Generate vCard data
@@ -20,7 +20,7 @@ VERSION:3.0
 FN:${contactInfo.name}
 TITLE:${contactInfo.title}
 EMAIL:${contactInfo.email}
-${contactInfo.phone ? `TEL:${contactInfo.phone}` : ""}
+EMAIL;TYPE=WORK:${contactInfo.workEmail}
 ADR;TYPE=WORK:;;${contactInfo.location}
 END:VCARD`;
 
@@ -56,24 +56,20 @@ END:VCARD`;
             </div>
             <div className="flex items-center gap-3 text-muted-foreground">
               <Mail className="h-5 w-5 text-primary" />
-              <a
-                href={`mailto:${contactInfo.email}`}
-                className="hover:text-accent transition-colors"
-              >
-                {contactInfo.email}
+              <a href="#" className="hover:text-accent transition-colors">
+                sk dot katherine at gmail
               </a>
             </div>
-            {contactInfo.phone && (
-              <div className="flex items-center gap-3 text-muted-foreground">
-                <Phone className="h-5 w-5 text-primary" />
-                <a
-                  href={`tel:${contactInfo.phone}`}
-                  className="hover:text-accent transition-colors"
-                >
-                  {contactInfo.phone}
-                </a>
-              </div>
-            )}
+
+            <div className="flex items-center gap-3 text-muted-foreground">
+              <Mail className="h-5 w-5 text-primary" />
+              <a
+                href={`mailto:${contactInfo.workEmail}`}
+                className="hover:text-accent transition-colors"
+              >
+                {contactInfo.workEmail}
+              </a>
+            </div>
             <div className="flex items-center gap-3 text-muted-foreground">
               <MapPin className="h-5 w-5 text-primary" />
               <span>{contactInfo.location}</span>
