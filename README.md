@@ -1,3 +1,11 @@
-# psybercity-bolt
+# psybercity
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mandarini/psybercity-bolt) or on [bolt](https://bolt.new/~/sb1-bcqzcq).
+Personal portfolio and professional showcase of Katerina Skroumpelou, a Product Advocate at Nx, Google Developer Expert, and tech community leader.
+
+🌐 [Visit psyber.city](https://psyber.city)
+
+Find the hidden cat page.
+
+## Development
+
+bolt.new - vibe coded.
