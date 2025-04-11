@@ -1,5 +1,34 @@
 [
   {
+    "postType": "Public Speaking",
+    "link": "https://nx.dev",
+    "title": "Nx EU Summit Conference organizing",
+    "conf_name": "Nx EU Summit 2025",
+    "description": "Organized the first ever Nx Summit in Europe, in Amsterdam.",
+    "date": "4 April 2025",
+    "impact": {
+      "value": "100",
+      "label": "People Attended"
+    },
+    "timestamp": "2025-04-04T21:00:00.000Z"
+  },
+  {
+    "postType": "Public speaking",
+    "title": "Scaling, CI, slow pipelines, maintenance - I have the solution for your pain",
+    "link": "https://www.meetup.com/greecejs/events/305796829/",
+    "description": "Who wants to think about scaling, CI, slow pipelines, complex customized configurations, maintenance, refactoring, introduction of new features, merging with new teams, and waiting for those flaky e2e tests to finally pass and finish? Nobody. Well, if you're using Nx and Nx Cloud, you don't have to think about these ever again. With Nx, we take all these pains and we crush them, one feature at a time. Cache your artefacts, only run what's affected in a PR, automatically detect and rerun flaky tests, understand your projects' structure, impose conformance rules across workspaces, control code ownership on the project level, split tasks across machines to maximize efficiency and increase speed - cutting down that CI bill. And the cherry on top? Automate updates, generate code, make refactoring a breeze. Focus on what makes you happy. Just code.",
+    "date": "Feb 5, 2025",
+    "timestamp": "2025-02-05T12:00:00.000Z",
+    "conf_name": "GreeceJS",
+    "impact": {
+      "value": "100 Attendees"
+    },
+    "conf_info": {
+      "website": "https://www.meetup.com/greecejs/events/305796829/",
+      "location": "Athens, Greece"
+    }
+  },
+  {
     "postType": "Public speaking",
     "title": "All about Product Advocacy & Latest on Nx & Nx Cloud",
     "description": "Discussion about Product Advocacy, and short demo & presentation about the latest of Nx and Nx Cloud.",

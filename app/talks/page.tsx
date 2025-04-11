@@ -59,11 +59,17 @@ type UpcomingTalk = {
 
 const upcomingTalks: UpcomingTalk[] = [
   {
-    website: "https://www.meetup.com/greecejs/events/305796829/",
-    conf_name: "GreeceJs",
-    date: "February 5, 2025",
-    title:
-      "Scaling, CI, slow pipelines, maintenance - I have the solution for your pain",
+    website: "https://devoxx.gr/",
+    conf_name: "Devoxx Greece",
+    date: "April 11, 2025",
+    title: "Nx for Gradle: Faster Builds, Improved DX",
+    location: "Athens, Greece",
+  },
+  {
+    website: "https://greece.cityjsconf.org",
+    conf_name: "CityJS Athens",
+    date: "May 30, 2025",
+    title: "Revolutionize Your React dev flow with Nx",
     location: "Athens, Greece",
   },
 ];
