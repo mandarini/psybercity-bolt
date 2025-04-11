@@ -6,6 +6,7 @@ import {
   siMedium,
   siBluesky,
 } from "simple-icons/icons";
+import { Calendar, QrCode } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -17,6 +18,22 @@ export default function Footer() {
             internet
           </p>
           <div className="flex items-center space-x-4">
+            <Link
+              href="/meet"
+              className="text-muted-foreground hover:text-accent transition-colors duration-200"
+              title="Schedule a meeting"
+            >
+              <Calendar className="h-5 w-5" />
+              <span className="sr-only">Schedule a meeting</span>
+            </Link>
+            <Link
+              href="/contact"
+              className="text-muted-foreground hover:text-accent transition-colors duration-200"
+              title="Contact details"
+            >
+              <QrCode className="h-5 w-5" />
+              <span className="sr-only">Contact details</span>
+            </Link>
             <Link
               href="https://github.com/mandarini"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
