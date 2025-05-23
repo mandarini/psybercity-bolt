@@ -1907,6 +1907,60 @@
     "extras": ["First in a series of workshops and talks around Greece"]
   },
   {
+    "postType": "Public speaking",
+    "link": "https://phpconference.com/javascript/angular-realtime-interactions-with-websockets/",
+    "title": "Angular Realtime Interactions with WebSockets",
+    "conf_name": "iJS Munich 2018",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server.",
+    "date": "October 2018",
+    "timestamp": "2018-10-15T12:00:00.000Z",
+    "impact": {
+      "value": "200",
+      "label": "People Attended"
+    },
+    "conf_info": {
+      "website": "https://phpconference.com/",
+      "location": "Munich, Germany"
+    }
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://x.com/psybercity/status/1038160750580256770",
+    "title": "Angular real time interactions with WebSockets",
+    "conf_name": "ngColombia 2018",
+    "description": "Using Angular and WebSockets we will be turning physical motion into virtual motion, in order to perform actions in our browser (navigation, event firing, etc). We will see the integration process step-by-step, resulting in a simple web application using WebSockets, Angular and a plain WebSocket client/server node.js server.",
+    "date": "September 2018",
+    "timestamp": "2018-09-08T12:00:00.000Z",
+    "impact": {
+      "value": "300",
+      "label": "People Attended"
+    },
+    "conf_info": {
+      "website": "https://ng-colombia.org/",
+      "location": "Medellín, Colombia"
+    },
+    "media": {
+      "photos": ["https://x.com/psybercity/status/1038142107666538496"]
+    }
+  },
+  {
+    "postType": "Workshop or mentoring",
+    "link": "https://x.com/psybercity/status/1037772608706682880",
+    "title": "Getting Real-Time with Firebase and Angular",
+    "conf_name": "ngColombia 2018",
+    "description": "The participants of this workshop will work hands on with Firebase in an Angular application. They will walk along a journey of developing an app with Angular and the real-time magic of Firebase. Firebase acts as a backend as a service and takes care of real time synchronization across apps and platforms.",
+    "date": "September 2018",
+    "timestamp": "2018-09-07T12:00:00.000Z",
+    "impact": {
+      "value": "40",
+      "label": "People Trained"
+    },
+    "conf_info": {
+      "website": "https://ng-colombia.org/",
+      "location": "Medellín, Colombia"
+    }
+  },
+  {
     "postType": "Public Speaking",
     "link": "https://www.meetup.com/Angular-Athens/events/251981555/",
     "title": "Angular Athens 2nd Meetup",
