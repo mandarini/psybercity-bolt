@@ -1,5 +1,25 @@
 [
   {
+    "postType": "Public speaking",
+    "link": "https://devoxx.gr/",
+    "title": "Nx for Gradle: Faster Builds, Improved DX",
+    "conf_name": "Devoxx Greece",
+    "description": "Explore how Nx transforms Gradle projects with intelligent caching, task distribution, and affected builds. Learn how the @nx/gradle plugin integrates with your existing Gradle setup to provide faster builds, smarter CI pipelines, and enhanced developer experience. Discover how Nx automatically analyzes your Gradle project structure, enables parallel task execution, and brings modern monorepo capabilities to your projects without changing your existing build configuration.",
+    "date": "April 11, 2025",
+    "timestamp": "2025-04-11T12:00:00.000Z",
+    "impact": {
+      "value": "80",
+      "label": "People Attended"
+    },
+    "conf_info": {
+      "website": "https://devoxx.gr/",
+      "location": "Athens, Greece"
+    },
+    "media": {
+      "video": "https://www.youtube.com/watch?v=oKNIHKdX260"
+    }
+  },
+  {
     "postType": "Public Speaking",
     "link": "https://nx.dev",
     "title": "Nx EU Summit Conference organizing",

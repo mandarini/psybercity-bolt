@@ -59,10 +59,10 @@ type UpcomingTalk = {
 
 const upcomingTalks: UpcomingTalk[] = [
   {
-    website: "https://devoxx.gr/",
-    conf_name: "Devoxx Greece",
-    date: "April 11, 2025",
-    title: "Nx for Gradle: Faster Builds, Improved DX",
+    website: "https://greece.cityjsconf.org/workshop/6Z0dYjKV2ivycXLdioxM03",
+    conf_name: "CityJS Athens",
+    date: "May 29, 2025",
+    title: "Nx: Smart Repos, Fast Builds, AI Assisted development",
     location: "Athens, Greece",
   },
   {
@@ -71,6 +71,20 @@ const upcomingTalks: UpcomingTalk[] = [
     date: "May 30, 2025",
     title: "Revolutionize Your React dev flow with Nx",
     location: "Athens, Greece",
+  },
+  {
+    website: "https://www.meetup.com/angularnyc/events/307844037/",
+    conf_name: "Angular NYC",
+    date: "June 3, 2025",
+    title: "Next-gen Angular with Nx: Rspack + MFE",
+    location: "New York City, USA",
+  },
+  {
+    website: "https://go.nx.dev/techweek",
+    conf_name: "NY Tech Week",
+    date: "June 5, 2025",
+    title: "Saved by Nx: Campfire CI Stories - #NYTechWeek",
+    location: "New York City, USA",
   },
 ];
 
