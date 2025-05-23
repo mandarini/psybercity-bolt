@@ -31,7 +31,7 @@ export default function Random() {
           </CardHeader>
           <CardContent>
             <p className="text-muted-foreground">
-              Seveneves
+              ball lightning
             </p>
           </CardContent>
         </Card>
@@ -41,7 +41,7 @@ export default function Random() {
           </CardHeader>
           <CardContent>
             <p className="text-muted-foreground">
-              bolt.new omg
+              trying to find serenity
             </p>
           </CardContent>
         </Card>

@@ -1,6 +1,6 @@
 "use client";
 
-import { Mic, Users2, MapPin, Calendar } from "lucide-react";
+import { Mic, Users2, MapPin, Calendar, FileText, Video } from "lucide-react";
 import { AnimatedStatCard } from "./AnimatedStatCard";
 import { Talk } from "../types";
 
@@ -71,7 +71,7 @@ export const SpeakingStats = ({ talks }: SpeakingStatsProps) => {
   const stats = calculateStats(talks);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       <AnimatedStatCard
         icon={Mic}
         value={stats.totalTalks}
@@ -95,6 +95,18 @@ export const SpeakingStats = ({ talks }: SpeakingStatsProps) => {
         value={stats.yearsActive}
         suffix="+"
         label="Years Active"
+      />
+      <AnimatedStatCard
+        icon={FileText}
+        value={stats.totalContent}
+        suffix="+"
+        label="Articles Written"
+      />
+      <AnimatedStatCard
+        icon={Video}
+        value={stats.totalVideos}
+        suffix="+"
+        label="Videos Created"
       />
     </div>
   );
