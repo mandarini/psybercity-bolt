@@ -1,6 +1,74 @@
 [
   {
     "postType": "Public speaking",
+    "link": "https://go.nx.dev/techweek",
+    "title": "Saved by Nx: Campfire CI Stories - #NYTechWeek",
+    "conf_name": "NY Tech Week",
+    "description": "Saved by Nx: Campfire CI Stories - #NYTechWeek",
+    "date": "June 5, 2025",
+    "timestamp": "2025-06-05T12:00:00.000Z",
+    "impact": {
+      "value": "60",
+      "label": "People Attended"
+    },
+    "conf_info": {
+      "website": "https://go.nx.dev/techweek",
+      "location": "New York City, USA"
+    }
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://www.meetup.com/angularnyc/events/307844037/",
+    "title": "Next-gen Angular with Nx: Rspack + MFE",
+    "conf_name": "Angular NYC",
+    "description": "Next-gen Angular with Nx: Rspack + MFE",
+    "date": "June 3, 2025",
+    "impact": {
+      "value": "30",
+      "label": "People Attended"
+    },
+    "timestamp": "2025-06-03T12:00:00.000Z",
+    "conf_info": {
+      "website": "https://www.meetup.com/angularnyc/events/307844037/",
+      "location": "New York City, USA"
+    }
+  },
+  {
+    "postType": "Public speaking",
+    "link": "https://greece.cityjsconf.org",
+    "title": "Revolutionize Your React dev flow with Nx",
+    "conf_name": "CityJS Athens",
+    "description": "Revolutionize Your React dev flow with Nx",
+    "date": "May 30, 2025",
+    "timestamp": "2025-05-30T12:00:00.000Z",
+    "impact": {
+      "value": "150",
+      "label": "People Attended"
+    },
+    "conf_info": {
+      "website": "https://greece.cityjsconf.org",
+      "location": "Athens, Greece"
+    }
+  },
+  {
+    "postType": "Workshop or mentoring",
+    "link": "https://greece.cityjsconf.org/workshop/6Z0dYjKV2ivycXLdioxM03",
+    "title": "Nx: Smart Repos, Fast Builds, AI Assisted development",
+    "conf_name": "CityJS Athens",
+    "description": "Workshop on Nx: Smart Repos, Fast Builds, AI Assisted development",
+    "date": "May 29, 2025",
+    "impact": {
+      "value": "40",
+      "label": "People Trained"
+    },
+    "timestamp": "2025-05-29T12:00:00.000Z",
+    "conf_info": {
+      "website": "https://greece.cityjsconf.org/workshop/6Z0dYjKV2ivycXLdioxM03",
+      "location": "Athens, Greece"
+    }
+  },
+  {
+    "postType": "Public speaking",
     "link": "https://devoxx.gr/",
     "title": "Nx for Gradle: Faster Builds, Improved DX",
     "conf_name": "Devoxx Greece",
