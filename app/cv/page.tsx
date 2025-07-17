@@ -8,13 +8,7 @@ import {
   Mic,
   Heart,
 } from "lucide-react";
-import {
-  siGithub,
-  siX,
-  siLinkedin,
-  siMedium,
-  siBluesky,
-} from "simple-icons/icons";
+import { siGithub, siX, siLinkedin, siBluesky } from "simple-icons/icons";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
 
@@ -24,7 +18,7 @@ export default function CV() {
       <div className="space-y-4">
         <h1 className="text-4xl font-bold">Katerina Skroumpelou</h1>
         <h2 className="text-2xl text-secondary">
-          Product Advocate - Google Developer Expert - WTM Ambassador - OSS
+          Software Engineer - Google Developer Expert - WTM Ambassador - OSS
           Contributor
         </h2>
 
@@ -153,6 +147,30 @@ export default function CV() {
               <div>
                 <h3 className="font-medium text-lg">
                   <a
+                    href="https://supabase.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-accent transition-colors"
+                  >
+                    Supabase - supabase.com
+                  </a>
+                </h3>
+                <p className="text-secondary">Client Library Engineer</p>
+                <p className="text-muted-foreground mt-2">
+                  Working on the js client libraries of Supabase.
+                </p>
+              </div>
+              <span className="text-sm text-muted-foreground whitespace-nowrap">
+                July 2025 - Present
+              </span>
+            </div>
+          </div>
+
+          <div className="border-l-2 border-secondary/20 pl-4">
+            <div className="flex justify-between items-start">
+              <div>
+                <h3 className="font-medium text-lg">
+                  <a
                     href="https://nx.dev"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -167,7 +185,7 @@ export default function CV() {
                 </p>
               </div>
               <span className="text-sm text-muted-foreground whitespace-nowrap">
-                September 2024 - now
+                September 2024 - June 2025
               </span>
             </div>
           </div>
