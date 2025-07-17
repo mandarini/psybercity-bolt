@@ -19,14 +19,14 @@ export default function Home() {
         <p className="inline-flex items-center gap-2 justify-center flex-wrap">
           <Code className="h-5 w-5 text-secondary shrink-0" />
           <span>
-            Product Advocate at{" "}
+            Client librarty engineer at{" "}
             <a
-              href="https://nx.dev"
+              href="https://supabase.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:text-accent/80 transition-colors"
             >
-              Nx
+              Supabase
             </a>
             ,{" "}
             <a
