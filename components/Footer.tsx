@@ -19,14 +19,6 @@ export default function Footer() {
           </p>
           <div className="flex items-center space-x-4">
             <Link
-              href="/meet"
-              className="text-muted-foreground hover:text-accent transition-colors duration-200"
-              title="Schedule a meeting"
-            >
-              <Calendar className="h-5 w-5" />
-              <span className="sr-only">Schedule a meeting</span>
-            </Link>
-            <Link
               href="/contact"
               className="text-muted-foreground hover:text-accent transition-colors duration-200"
               title="Contact details"
